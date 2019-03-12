@@ -87,9 +87,9 @@ U každé výstavy jsou pomocí tlačítka (5) k dispozici základní operace
 jako je přejmenování výstavy, sdílení výstavy či její části, export
 výstavy, změna stavu výstavy, zkopírování výstavy či smazání výstavy.
 
-![](/img/uvod1-a.jpg)
+![](img/uvod1-a.jpg)
 
-![](/img/uvod2-b-seznam.jpg)
+![](img/uvod2-b-seznam.jpg)
 
 ### Detail výstavy
 
@@ -99,7 +99,7 @@ k výstavě, Nastavení (3) pro obecná nastavení celé výstavy a Sdílení
 (4). Po založení výstavy obsahuje obrazovku Úvod výstavy (5), možnost
 přidání obrazovky (6) a Závěr výstavy (7).
 
-![](/img/detail-vystavy-1.jpg)
+![](img/detail-vystavy-1.jpg)
 
 Všechny změny, které tvůrce na detailu výstavy udělá, jsou okamžitě
 ukládány, není zde žádné tlačítko Uložit.
@@ -125,7 +125,7 @@ Struktura výstavy je zobrazená v grafické podobě. Editor umožňuje:
 Každou stránku lze upravovat, zobrazit náhled nebo smazat pomocí menu
 (9).
 
-![](/img/struktura-vystavy.jpg)
+![](img/struktura-vystavy.jpg)
 
 ### Soubory výstavy
 
@@ -145,7 +145,7 @@ výstavy jako celku:
   - URL výstavy (2)
   - Informace návštěvníkovi v případě, že je výstava již ukončená (3)
 
-![](/img/nastaveni.jpg)
+![](img/nastaveni.jpg)
 
 ### Stav výstavy
 
@@ -183,7 +183,6 @@ obrazovku s těmito informacemi:
 Výstavu lze sdílet s dalšími tvůrci. Ostatním tvůrcům je možné dát práva
 jen k prohlížení nebo i k editaci. Můžete přidávat jen tvůrce, kteří
 jsou do editoru zaregistrovaní. K přidání další osoby potřebujete znát
-jeho e-mail, který použil k registraci. Neregistrovanému člověku je
 možné zaslat e-mailovou pozvánku s výzvou k registraci. O sdílení
 výstavy budete informováni e-mailem.
 

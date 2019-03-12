@@ -4,7 +4,7 @@ nav:
     - 'Úvod': 'index.md'
     - 'Začínáme': 'zaciname.md'
     - 'Základy': 'zaklady.md'
-
+repo_url: https://nnis.github.io/indihu-manual/
 markdown_extensions:
   - toc:
       permalink: '#'
