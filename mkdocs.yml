@@ -1,0 +1,12 @@
+site_name: Indihu Exhibition
+theme: material
+nav:
+    - 'Úvod': 'index.md'
+    - 'Začínáme': 'zaciname.md'
+    - 'Základy': 'zaklady.md'
+
+markdown_extensions:
+  - toc:
+      permalink: '#'
+  - admonition
+
