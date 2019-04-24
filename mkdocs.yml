@@ -2,8 +2,11 @@ site_name: Indihu Exhibition
 theme: material
 nav:
     - 'Úvod': 'index.md'
-    - 'Začínáme': 'zaciname.md'
-    - 'Základy': 'zaklady.md'
+    - 'Vytváříme obsah výstavy': 'obsah-vystavy.md'
+    - 'Koncepce editoru': 'koncepce-editoru.md'
+    - 'Základní fungování': 'zaklady.md'
+    - 'Obrazovky': 'obrazovky.md'
+    - 'Minihry': 'minihry.md'
 repo_url: https://nnis.github.io/indihu-manual/
 markdown_extensions:
   - toc:

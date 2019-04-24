@@ -11,39 +11,48 @@ INDIHU Exhibition je open source software
 <http://inqooltest.libj.cas.cz>, kterou provozuje Knihovna Akademie věd
 ČR.
 
-## Vlastnosti
+!!! question "Proč používat INDIHU Exhibition?"
+    * Umožní tvořit virtuální výstavy, aniž byste museli rozumět webdesignu
+    * Nabízíme širokou škálu obsahu od obrázku, přes video, texty
+    * Zařaďte do výstavy interaktivní hry
+    * Soustřeďte se na obsah a ne na technickou stránku 
+    * Ušetříte peníze za programátory
 
-Aby výsledné virtuální výstavy byly obsahově co nejpestřejší, umožňuje
-editor vložit tyto typy obsahu:
+## Co to umí 
 
-  - Obrázky
-  - Animace obrázků 
-  - Fotogalerie
-  - Obrázky před a po
-  - Vložení stručných informačních boxíků do obrázku (infopointy)
-  - Video
-  - Text 
-  - Přidání hudby
-  - Nahrání audio komentáře
-  - Zoom in
-  - Využítí externího obsaho pomocí embed kódu (např. mapy nebo videa
-    dostupná online)
-  - Kvízy
-  - Minihry (Najdi na obrázku, Stírací los, Hádej velikost apod.)
-  - Přidání odkazů
-  - Přidání souborů s rozšiřujícími materiály (např. seznam literatury,
-    pracovní listy pro školy apod.)
-  - Zveřejnění na URL adrese
-  - Sdílení na sociálních sítích
-  - Použití v prostoru instituce na tabletech, počítačích nebo v
-    informačních kioscích
+- Obrázky (animace, různé přechody, před a po, fotogalerie)
+- Infopointy (stručné informační boxy v obrázcích)
+- Video
+- Text 
+- Audio (hudba, audio komentáře)
+- Vkládání externího obsahu (např. mapy, videa, grafy) 
+- Minihry (Kvíz, Najdi na obrázku, Stírací los, Hádej velikost apod.)
+- Přikládání souborů s dalšími materiály (např. seznam literatury, pracovní listy pro školy)
+- Na tvorbě výstavy můžete spolupracovat s více tvůrci
+- Hostování výstavy
+- Snadné sdílení 
+- Responzivní design (výstavy jsou vhodné i pro mobilní zařízení)
+
+## Jak začít
+
+Tvorba virtuálních výstav má dvě části. Nejprve je třeba [vybrat téma](obsah-vystavy.md) a obsah připravit tak, aby byl vhodný pro zpracování formou virtuální výstavy. Druhým krokem je příprava výstavy v nástroji INDIHU Exhibition. V osvojení nástroje doporučujeme postupovat takto: 
+
+1. [Koncepce editoru](koncepce-editoru.md): článek a videa, která představují hlavní myšlenky a obecné principy ovládání
+2. [Základní fungování](zaklady.md): Vysvětlení používaných pojmů a ilustrovaný popis jednotlivých kroků při založení první výstavy
+3. [Obrazovky](obrazovky.md): Podrobný ilustrovaný popis jednotlivých tipů obrazovek
+4. [Minihry](minihry.md): Podrobný ilustrovaný popis jednotlivých interaktivních her
 
 ## Jak výstavu vidí návštěvník
 
 Virtuální výstavu může návštěvník prohlížet ve dvou módech. Návštěvník
 může módy v průběhu prohlížení výstavy měnit:
 
-1.  Prezentační mód: obsah se automaticky přehrává podobně jako v kině.
-    Pro tento typ je vhodné doplnit výstavu o audio komentář. 
-2.  Textový mód: obsah se nepřehrává automaticky, ale návštěvník sám
-    určuje, kdy přejde na další stránku a kolik času na stránce stráví.
+1.  **Prezentační mód**: obsah se automaticky přehrává podobně jako v kině.
+    Pro tento typ je vhodné doplnit výstavu o audio komentář, který vznikne namluvením textů v textovém módu.  
+
+![](img/prezentacni-mod.png)
+
+2.  **Textový mód**: obsah se nepřehrává automaticky, ale návštěvník sám
+    určuje, kdy přejde na další stránku pomocí šipek a kolik času na stránce stráví.
+
+![](img/textovy-mod.png)
