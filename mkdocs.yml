@@ -1,5 +1,7 @@
 site_name: Indihu Exhibition
-theme: material
+theme: 
+  name: material
+  language: 'cs'
 nav:
     - 'Úvod': 'index.md'
     - 'Vytváříme obsah výstavy': 'obsah-vystavy.md'

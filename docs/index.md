@@ -8,15 +8,16 @@ prezentaci výstupů vědeckého bádání. Může sloužit i jako nástroj pro
 
 INDIHU Exhibition je open source software
 (<https://github.com/LIBCAS/INDIHU>) a webová služba dostupná na adrese
-<http://inqooltest.libj.cas.cz>, kterou provozuje Knihovna Akademie věd
+<https://exhibition.indihu.cz/>, kterou provozuje Knihovna Akademie věd
 ČR.
 
 !!! question "Proč používat INDIHU Exhibition?"
     * Umožní tvořit virtuální výstavy, aniž byste museli rozumět webdesignu
-    * Nabízíme širokou škálu obsahu od obrázku, přes video, texty
-    * Zařaďte do výstavy interaktivní hry
-    * Soustřeďte se na obsah a ne na technickou stránku 
-    * Ušetříte peníze za programátory
+    * Poskytuje širokou škálu obsahu od obrázků, přes video, texty 
+    * Nabízí zařazení interaktivních her
+    * Dovoluje soustředit se na obsah a ne na technickou stránku
+    * Ušetří Vám peníze za programátory
+
 
 ## Co to umí 
 
@@ -25,15 +26,15 @@ INDIHU Exhibition je open source software
 - Video
 - Text 
 - Audio (hudba, audio komentáře)
-- Vkládání externího obsahu (např. mapy, videa, grafy) 
-- Minihry (Kvíz, Najdi na obrázku, Stírací los, Hádej velikost apod.)
+- Vkládání externího obsahu (např. mapy, videa, grafy, 3D objekty) 
+- [Minihry](minihry.md) (Kvíz, Najdi na obrázku, Stírací los, Hádej velikost apod.)
 - Přikládání souborů s dalšími materiály (např. seznam literatury, pracovní listy pro školy)
 - Na tvorbě výstavy můžete spolupracovat s více tvůrci
 - Hostování výstavy
-- Snadné sdílení 
-- Responzivní design (výstavy jsou vhodné i pro mobilní zařízení)
+- Snadné sdílení návštěvníkům i spoluatorům
+<!-- - Responzivní design (základní prvky výstavy jsou vhodné i pro mobilní zařízení) -->
 
-## Jak začít
+## Jak začít?
 
 Tvorba virtuálních výstav má dvě části. Nejprve je třeba [vybrat téma](obsah-vystavy.md) a obsah připravit tak, aby byl vhodný pro zpracování formou virtuální výstavy. Druhým krokem je příprava výstavy v nástroji INDIHU Exhibition. V osvojení nástroje doporučujeme postupovat takto: 
 
