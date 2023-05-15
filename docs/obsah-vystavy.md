@@ -31,7 +31,7 @@ TODO pracovní listy
 
 ## Doporučené funkce pro začátečníky 
 
-Jednotlivé obrazovky a jejich funkce jsou podrobně popsány v záložce [Obrazovky](obrazovky.md). Záčínáte-li si teprve virtuální vsýtavy osvojovat, doporučujeme zaměřit se zejména na tyto formy obsahu a tyto obrazovky:
+Jednotlivé obrazovky a jejich funkce jsou podrobně popsány v záložce [Obrazovky](obrazovky.md). Záčínáte-li si teprve virtuální výstavy osvojovat, doporučujeme zaměřit se zejména na tyto formy obsahu a tyto obrazovky:
 
 ### Obrázky
 Zaměřte se zejména na obrázky a jejich kvalitu. V současné vizuální době kvalitní obrázky přitáhnou pozornost. Pokud máte tu možnost, nechte nafotit vaše předměty profesionálním fotografem a použijte kvalitní fotoaparát. Ujistěte se, že fotografie mají dobrou kompozici, jsou správně nasvícené a mají kvalitní pozadí. U obrázků je důležité **načasování**, nastavte čas v editoru u obrázků tak, aby si návštěvník mohl obrázky v klidu prohlédnout. Méně je často více a předejdete přehlcení. 
@@ -51,6 +51,7 @@ Kvalitní texty mohou přinést návštěvníkům nové informace a probudit jej
 - Pište kratší věty, jsou srozumitelnější
 - To nejzajímavější dejte na začátek textu a nespoléhejte, že návštěvník dočte až do konce
 - Podrobnější informace můžete přidat v samostatném souboru k výstavě nebo ke každé obrazovce a tím nezatěžíte hlavní obsah
+- Využijte [obrazovku s textem](obrazovky/#obrazovka-s-textem) pro zvyrazněný krátky text, který bude centrem obrazovky. Hodí se např. pro citáty nebo zopakování klíčových informací. 
 
 ### Jasné názvy
 Pojmenujte jednotlivé kapitoly i obrazovky jasně a atraktivně, aby návštěvník věděl, na co se může těšit. Dlouhé a složité názvy ho zmatou. Podrobnosti dejte do přílohy. Inspirujte se novinovými titulky, kterým se texty podobají víc než textům a názvům v odborných monografiích. 
@@ -71,6 +72,42 @@ Obrázky, které prezentujete ve výstavě mohou mít jiný formát, rozličnou 
 
 ## Doporučené funkce pro pokročilé
 
+Máte-li za sebou již svou první výstavu nebo dokonce několik, doporučujeme vám zkusit pokročilejší funkce a zejména do větší hloubky pracovat s různými cílovými skupinami. Můžete tak udělat výstavy speciálně pro určité cílové skupiny nebo udělat výstavy v několika verzích (složitější pro dospělé, hravější a jednodušší pro děti). 
+
+### Zrealizujte návštěvnický průzkum
+Ověřte si, co nejvíce zajímá vaše návšětvníky a ušijte jim výstavu na míru. Navrhněte některé z možností a uspořádejte anketu na webu nebo na sociálních sítích. Další možností je uspořádání focus group. Díky průzkumu zjistíte, co již vaši návštěvníci ví a co je nejvíce zajímá. 
+
+### Video nebo animace
+Připravte pro výstavu unikátní video nebo videa, čímž ozvláštníte obsah. Video by nemělo být samo os sobě příliš dlouhé. Zaměřte se na poctivou přípravu scénáře. Můžete využít různé žánry: 
+
+- Dokumentární film 
+- Rozhovor s pamětníkem či odborníkem
+- Animaci
+- Hraný film
+
+### Zaměřte se na propagaci výstavy
+Propagace výstavy může do velké míry ovlivnit dosahh a úspěšnost výstavy. Tady je několik tipů pro vás: 
+
+- Vytvořte videoupoutávku na výstavu (teaser)
+- Připravte kampaň na sociální sítě (upozorňujte na výstavu již předem, jasně formulujte, co návštěvníci díky výstavě získají)
+- Načasujte výstavu na nějaké významné datum nebo ji spojte s další offline údálostí (můžete zorganizovat i vernisáž) 
+- Oslovte místní média a propřavte tiskovou zprávu nebo nabídněte rozhovor s autory
+- Připrate doporovodný materiál pro školy a využívejte virtuální výstavu při vzdělávacích akcích, čímž připravíte komplexnější zážitek
+
+### Využijte participativní metody 
+Na přípravě výstavy můžete spolupracovat s místními školami nebo jinými institucemi z oblasti neformálního vzdělávání. Rozšíříte tím dosah výstavy i samotné portfolio vašich aktivit. Např. místní amatérští fotografové nebo filmový kroužek se může podílet na tvorbě náročnějšího obsahu. 
+
+### Hry 
+Interaktivita a možnost se přímo zapojit je součástí internetu a návštěvníci jsou na to zvyklí a tentotip obsahu je jim blízky. INDIHU Exhibition nabízí několik her, jejichž použití i s příklady najdete v samostatné [záložce](hry). Některé z nich mají jasné řešení a jsou vhodně jší pro ověření znalostí a toho, "zda návštěvníci dávali pozor". Znalostními hrami můžeme otevřít téma a zjistit vstupní znalosti, které zbytkem obsahu výstavy doplníme a rozvedeme. Mezi tyto hty patří: 
+
+- kvíz
+
+Další hry pak jsou spíše kreativní a nemají jednoznačné řešení. Ty jsou vhodnější k rozvoji imaginace, podpoření kreativity a umožní návštěvníkům se samostatně vyjádřit: 
+
+- Dokresli
+
+### Parallax
+[Parallax](/obrazovky/#parallax) je speciální tip pohyblivého obrázku se zajímavým efektem, kdy se obrázek nahraje v několika vrstvách a každá z nich se pohybuje zvlášť a obraz se tedy hýbe. Parallax je náročnější, jak na představivost, tak na přípravu a digitální dovednosti. 
 
 
 
