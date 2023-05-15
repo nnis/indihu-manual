@@ -3,18 +3,20 @@
 Virtuální výstava je online prezentace vybraného tématu. Při její tvorbě
 plníte jednotlivé obrazovky obsahem - obrázky, texty, přidáváte hudbu,
 namluvený komentář nebo pro návštěvníky připravíte hry. Obrazovky je možné sdružovat do **kapitol** nebo je možné výstavu sestavit z
-**jednotlivých obrazovek** jdoucích po sobě. Oba principy můžete kombinovat. Příprava výstavy se skládá ze dvou částí: 
+**jednotlivých obrazovek** jdoucích po sobě. Oba principy můžete kombinovat. Příprava výstavy se skládá ze dvou hlavních částí rozdělených do 6 základních činností: 
 
-    1. Příprava tématu výstavy a obsahu
-    2. Samotná tvorba v nástroji INDIHU Exhibition 
+1. Příprava tématu a obsahu výstavy
+2. Samotná tvorba v nástroji INDIHU Exhibition 
+
+![](img/doporuceny-postup-v4.jpg)
 
 ## Příprava tématu výstavy a obsahu
 
-Vymyslet téma pro výstavu je to nejtěžší. Online prostředí funguje jinak než jak jsme zvyklí u normálních fyzických výstav a online návštěvníci mají trochu jiná očekávání. [Očekáváním návštěvníků](inspirace.md#TODOKOTVA) bychom se měli přizpůsobit, aby naše výstava byla úspěšná. 
+Vymyslet téma a najít ten správný přístup k výstavě je to nejnáročnější, ovládání nástroje tvůrcům většinou problémy nedělá. Online prostředí funguje jinak než jak jsme zvyklí u normálních fyzických výstav a online návštěvníci mají trochu jiná očekávání. [Očekáváním návštěvníků](inspirace.md#TODOKOTVA) bychom se měli přizpůsobit, aby naše výstava byla úspěšná. 
 
 ## Vytvářím svou první výstavu
 
-Udělat svou první výstavu je nejtěžší a moc si vážíme toho, že používate náš nástroj. Abychom vá to zjednodušili, připravili jsme pro vás cvičení, které vám pomohou vybrat to nejlépší téma a formu. 
+Udělat svou první výstavu je nejtěžší a moc si vážíme toho, že používate náš nástroj. Abychom vá to zjednodušili, připravili jsme pro vás cvičení a připravili sadu otázek, které vám pomohou vybrat to nejlépší téma a formu. 
 
 1.  Výběr tématu (Buďte co nejkonkrétnější, přemýšlejte o návštěvníkovi, jaký je, co ho zajímá, kde na výstavu narazil. Pomoci vám může [10 podnětů k zamyšlení](obsah-vystavy.md#predtim-nez-zacnete)). 
 2.  Vybrat způsob vyprávění (Jak budete obsah členit, jak budete
@@ -29,26 +31,90 @@ TODO pracovní listy
 
 ## Doporučené funkce pro začátečníky 
 
-Jednotlivé obrazovky a jejich funkce jsou podrobně popsány v záložce [Obrazovky](obrazovky.md). Doporučujeme zaměřit se zejména na tyto formy obsahu a tyto obrazovky:
+Jednotlivé obrazovky a jejich funkce jsou podrobně popsány v záložce [Obrazovky](obrazovky.md). Záčínáte-li si teprve virtuální výstavy osvojovat, doporučujeme zaměřit se zejména na tyto formy obsahu a tyto obrazovky:
 
 ### Obrázky
-Zaměřte se zejména na obrázky a jejich kvalitu. V současné vizuální době kvalitní obrázky přitáhnou pozornost. Pokud máte tu možnost, nechte nafotit vaše předměty profesionálním fotografem nebo použijte kvalitní fotoaparát. Ujistěte se, že fotografie mají dobrou kompozici, jsou správně nasvícené a mají kvalitní pozadí. U obrázků je důležité **načasování**, nastavte čas u obrázků tak, aby si návštěvník mohl obrázky v klidu prohlédnout. Méně je často více a předejdete přehlcení. 
+Zaměřte se zejména na obrázky a jejich kvalitu. V současné vizuální době kvalitní obrázky přitáhnou pozornost. Pokud máte tu možnost, nechte nafotit vaše předměty profesionálním fotografem a použijte kvalitní fotoaparát. Ujistěte se, že fotografie mají dobrou kompozici, jsou správně nasvícené a mají kvalitní pozadí. U obrázků je důležité **načasování**, nastavte čas v editoru u obrázků tak, aby si návštěvník mohl obrázky v klidu prohlédnout. Méně je často více a předejdete přehlcení. 
 
 **Využijte**: 
-
-    - [Obrazovku s obrázkem](obrazovky/#obrazovka-s-obrazkem)
-    - [Slideshow](TODO)
-    - [Fotogalerii](TODO)
-    - [Animaci přiblížení](obrazovky/#animace-priblizeni)
-    - Pro ozvláštnění obrázků využijte různé druhy animací, takže se výstava bude jemně hýbat
-    - Pro zvýraznění informační hodnty a detailů na obrázcích využijte infopointy 
+ - [Obrazovku s obrázkem](obrazovky/#obrazovka-s-obrazkem)
+ - [Slideshow](TODO)
+ - [Fotogalerii](TODO)
+ - [Animaci přiblížení](obrazovky/#animace-priblizeni)
+ - Pro ozvláštnění obrázků využijte různé druhy animací, takže se výstava bude jemně hýbat
+ - Pro zvýraznění informační hodnoty a detailů na obrázcích využijte infopointy, které kromě krátkého textu mohou obsahovat další obrázek. 
 
 ### Texty 
-Kvalitní texty mohou přinést návštěvníkům nové informace a probudit jejich zájem. Buďte ale struční, doporučujeme nevkládat texty delší než 500 znaků. 
+Kvalitní texty mohou přinést návštěvníkům nové informace a probudit jejich zájem. Buďte ale struční, doporučujeme nevkládat texty delší než 500 znaků. Z testování s návštěvníky víme, že je nečtou. Zkuste dát texty někomu přečíst ať získáte zpětnou vazbu. U textů se držte těchto doporučení: 
 
-## Chci se zdokonalit v pokročilých funkcích 
+- Vyhněte se odborným výrazům
+- Pište kratší věty, jsou srozumitelnější
+- To nejzajímavější dejte na začátek textu a nespoléhejte, že návštěvník dočte až do konce
+- Podrobnější informace můžete přidat v samostatném souboru k výstavě nebo ke každé obrazovce a tím nezatěžíte hlavní obsah
+- Využijte [obrazovku s textem](obrazovky/#obrazovka-s-textem) pro zvyrazněný krátky text, který bude centrem obrazovky. Hodí se např. pro citáty nebo zopakování klíčových informací. 
 
-<center>![](img/doporuceny-postup-v4.jpg)</center>
+### Jasné názvy
+Pojmenujte jednotlivé kapitoly i obrazovky jasně a atraktivně, aby návštěvník věděl, na co se může těšit. Dlouhé a složité názvy ho zmatou. Podrobnosti dejte do přílohy. Inspirujte se novinovými titulky, kterým se texty podobají víc než textům a názvům v odborných monografiích. 
+
+### Hudba
+Produkce audiokomentáře nemusí být snadná, ale přidání hudby či hudebního podkresu je jednoduché a výstava bude mít větší atmosféru. Pro začátečníky doporučujeme přidat ke každé kapitole hudbu. Hudba se bude přehrávat ve smyčce a nemusíte řešit načasování a délku komentářů. 
+
+### Interaktivní obrazovky 
+Interaktivní obrazovky jsou druhy obrazovek, které skýtají drobné interakce pro návštěvníka, ale nejsou náročné na vytvoření a mohou být vítaným ozvláštněním. Opět stojí zejména na obrázcích. 
+
+**Využijte**: 
+ - [Slideshow](TODO)
+ - [Před a po](obrazovky.md/#TODO): Tato obrazovka umožňuje prezentovat dva obrázky, které se doplňují nebo naopak kontrastují a návštěvník si je může procházet. 
+ - [Obrazovka s externím obsahem](obrazovky.md#obrazovka-s-externim-obsahem): Máte zajímavý obsah uveřejněný v jiné aplikaci? Můžete ji jednodušše integrovat do výstavy a to včetně zachovaní interaktivity, který obsah na jiné stránce nabízí. Příkladem mohou být např. mapové aplikace nebo video. 
+
+### Postprodukce
+Obrázky, které prezentujete ve výstavě mohou mít jiný formát, rozličnou barevnost nebo styl. Díky postprodukci je můžete sjednotit nebo přidat zajímavé detaily pro ozvláštnění. Výstava pak bude fungovat jako celek, i když zdrojové materiály budou rozdílné. Příklad výrazné postprodukce najdete v části [Inspirace](inspirace.md). 
+
+## Doporučené funkce pro pokročilé
+
+Máte-li za sebou již svou první výstavu nebo dokonce několik, doporučujeme vám zkusit pokročilejší funkce a zejména do větší hloubky pracovat s různými cílovými skupinami. Můžete tak udělat výstavy speciálně pro určité cílové skupiny nebo udělat výstavy v několika verzích (složitější pro dospělé, hravější a jednodušší pro děti). 
+
+### Zrealizujte návštěvnický průzkum
+Ověřte si, co nejvíce zajímá vaše návšětvníky a ušijte jim výstavu na míru. Navrhněte některé z možností a uspořádejte anketu na webu nebo na sociálních sítích. Další možností je uspořádání focus group. Díky průzkumu zjistíte, co již vaši návštěvníci ví a co je nejvíce zajímá. 
+
+### Video nebo animace
+Připravte pro výstavu unikátní video nebo videa, čímž ozvláštníte obsah. Video by nemělo být samo os sobě příliš dlouhé. Zaměřte se na poctivou přípravu scénáře. Můžete využít různé žánry: 
+
+- Dokumentární film 
+- Rozhovor s pamětníkem či odborníkem
+- Animaci
+- Hraný film
+
+### Zaměřte se na propagaci výstavy
+Propagace výstavy může do velké míry ovlivnit dosahh a úspěšnost výstavy. Tady je několik tipů pro vás: 
+
+- Vytvořte videoupoutávku na výstavu (teaser)
+- Připravte kampaň na sociální sítě (upozorňujte na výstavu již předem, jasně formulujte, co návštěvníci díky výstavě získají)
+- Načasujte výstavu na nějaké významné datum nebo ji spojte s další offline údálostí (můžete zorganizovat i vernisáž) 
+- Oslovte místní média a propřavte tiskovou zprávu nebo nabídněte rozhovor s autory
+- Připrate doporovodný materiál pro školy a využívejte virtuální výstavu při vzdělávacích akcích, čímž připravíte komplexnější zážitek
+
+### Využijte participativní metody 
+Na přípravě výstavy můžete spolupracovat s místními školami nebo jinými institucemi z oblasti neformálního vzdělávání. Rozšíříte tím dosah výstavy i samotné portfolio vašich aktivit. Např. místní amatérští fotografové nebo filmový kroužek se může podílet na tvorbě náročnějšího obsahu. 
+
+### Hry 
+Interaktivita a možnost se přímo zapojit je součástí internetu a návštěvníci jsou na to zvyklí a tentotip obsahu je jim blízky. INDIHU Exhibition nabízí několik her, jejichž použití i s příklady najdete v samostatné [záložce](hry). Některé z nich mají jasné řešení a jsou vhodně jší pro ověření znalostí a toho, "zda návštěvníci dávali pozor". Znalostními hrami můžeme otevřít téma a zjistit vstupní znalosti, které zbytkem obsahu výstavy doplníme a rozvedeme. Mezi tyto hty patří: 
+
+- kvíz
+
+Další hry pak jsou spíše kreativní a nemají jednoznačné řešení. Ty jsou vhodnější k rozvoji imaginace, podpoření kreativity a umožní návštěvníkům se samostatně vyjádřit: 
+
+- Dokresli
+
+### Parallax
+[Parallax](/obrazovky/#parallax) je speciální tip pohyblivého obrázku se zajímavým efektem, kdy se obrázek nahraje v několika vrstvách a každá z nich se pohybuje zvlášť a obraz se tedy hýbe. Parallax je náročnější, jak na představivost, tak na přípravu a digitální dovednosti. 
+
+
+
+----------- PŮVODNÍ OBSAH ----------------
+
+
+
 
 
 4.  Testování (Poproste někoho, kdo není z oboru o jeho názor, ptejte

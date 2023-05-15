@@ -1,6 +1,10 @@
 # Obrazovky
 
-Základním stavebním kamenem virtuální výstavy, kterou tvoříte, jsou obrazovky. Postupně si projdeme jednotlivé typy obrazovek, jejich funkcionality a možnosti použití. Pokud hledáte informace ke konkrétnímu typu obrazovky, použijte navigaci vpravo. Obrazovky plníte obsahem a sdružujete do kapitol a tím vznikne výstava. Výstava může být složená jen za pomocí jednotlivých obrazovek bez organizace do kapitol. 
+Základním stavebním kamenem virtuální výstavy, kterou tvoříte, jsou obrazovky. Postupně si projdeme jednotlivé typy obrazovek, jejich funkcionality a možnosti použití. Pokud hledáte informace ke konkrétnímu typu obrazovky, použijte navigaci vpravo. Obrazovky plníte obsahem a sdružujete do kapitol a tím vznikne výstava. Výstava může být složená jen za pomocí jednotlivých obrazovek bez organizace do kapitol. Nabízíme 3 druhy obrazovek: 
+
+- Obsahová obrazovka 
+- Interaktivní obrazovka
+- [Herní obrazovka](hry)
 
 ## Úvod výstavy
 Úvodní stránka výstavy obsahuje poměrně hodně informací. Základem je (animovaný) obrázek, název výstavy, informace o tom, kdo výstavu dělal, seznam kapitol, informace o času potřebného k projití výstavy apod. Tvůrce se k editaci dostane ze záložky Struktura výstavy kliknutím na čtvereček úvodu výstavy nebo použitím menu tohoto čtverečku. 
@@ -79,7 +83,9 @@ Vyberte obrázek z dokumentů, který uvodí téma kapitoly. V případě, že o
 
 Ke kapitole je možné přidat dokumenty (např. .docx, .pdf), které si návštěvník stáhne. Soubory ke stažení umožňují přidat rozšiřující informace k výstavě nebo ke konkrétní kapitole (článek, seznam doporučené literatury, pracovní listy apod.). Dokumenty vybírejte z knihovny dokumentů v editoru nebo z počítače. Druhou variantou je vložit odkaz na web pomocí URL. Web se návštěvníkovi otevře automaticky v novém okně.
 
-## Obrazovka s obrázkem
+## Obsahové obrazovky 
+
+### Obrazovka s obrázkem
 Obrazovka s obrázkem je jednou ze základních obrazovek. Hlavním obsahem je tedy obrázek. Obrazovka s obrázkem je relativně snadná na přípravu a je efektní. Doporučujeme použití tzv. infopointů, které obohatí obrázek o informační hodnotu. Infopointy jsou určeny ke zvýraznění určitého detailu nebo motivu na obrázku tím, že na konkrétní místo vložíte ikonu s otazníkem a krátký text s vysvětlením, zajímavostí či upozorněním. Text se návštěvníkovi zobrazí, když na ikonu s otazníkem najede myší nebo jej můžete označit jako Stále zobrazen. V tom případě bude vidět i bez najetí myší. Na jeden obrázek je možné vložit více infopointů. Infopoint se zobrazí v levém horním rohu, odkud ho přetáhněte myší na jakékoli místo v obrázku.  
 
 **Název, text, audio**
@@ -102,7 +108,7 @@ Vyberte obrázek z dokumentů. V případě, že obrázek nemáte nahraný do ed
 
 K obrazovce je možné přidat dokumenty (např. .docx, .pdf), které si návštěvník stáhne. Soubory ke stažení umožňují přidat rozšiřující informace k výstavě nebo ke konkrétní kapitole (článek, seznam doporučené literatury, pracovní listy apod.). Dokumenty vybírejte z knihovny dokumentů v editoru nebo z počítače. Druhou variantou je vložit odkaz na web pomocí URL. Web se návštěvníkovi otevře automaticky v novém okně.
 
-## Obrazovka s videem
+### Obrazovka s videem
 Hlavním obsahem této obrazovky je video, které nahrajete do souborů z počítače. Ve výstavě se video zobrazí na celou stránku, proto jsou lepší videa orientovaná na šířku. Video připravujte v rozlišení FullHD (1920×1080), 25 snímků za vteřinu, v rendrovacím formátu H.264.  
 
 **Název, text**
@@ -124,7 +130,7 @@ Vyberte video z nahraných souborů nebo jej vyberte z počítače a přidejte d
 
 K obrazovce je možné přidat dokumenty (např. .docx, .pdf), které si návštěvník stáhne. Soubory ke stažení umožňují přidat rozšiřující informace k výstavě nebo ke konkrétní kapitole (článek, seznam doporučené literatury, pracovní listy apod.). Dokumenty vybírejte z knihovny dokumentů v editoru nebo z počítače. Druhou variantou je vložit odkaz na web pomocí URL. Web se návštěvníkovi otevře automaticky v novém okně.
 
-## Obrazovka s textem
+### Obrazovka s textem
 Obrazovka s textem umožňuje sepsat text na libovolné téma o max. délce 300 znaků. Text je bílý na černém pozadí, je umístěn do středu stránky se zarovnáním vlevo. Velikost textu se upravuje automaticky podle jeho délky - kratší text je větším písmem, delší text naopak menším. Pozice textu se upravuje podle jeho délky.
 
 !!! info "Tip"
@@ -147,7 +153,7 @@ V záložce Text dodáte hlavní obsah stránky, tedy text. Text je bílým pís
 
 K obrazovce je možné přidat dokumenty (např. .docx, .pdf), které si návštěvník stáhne. Soubory ke stažení umožňují přidat rozšiřující informace k výstavě nebo ke konkrétní kapitole (článek, seznam doporučené literatury, pracovní listy apod.). Dokumenty vybírejte z knihovny dokumentů v editoru nebo z počítače. Druhou variantou je vložit odkaz na web pomocí URL. Web se návštěvníkovi otevře automaticky v novém okně.
 
-## Parallax
+### Parallax
 
 Parallax je dynamický efekt, který oživí virtuální výstavu. Spočívá v tom, že je obrázek rozdělen na nejméně 2 vrstvy - popředí a pozadí. Tyto vrstvy jsou animovány rozdílnou rychlostí, čímž vzniká iluze 3D, ačkoli se jedná stále o obrázek. Příklady tohoto efektu najdete např. na [YouTube](https://www.youtube.com/watch?v=cUfmUPhApJ0). 
 
@@ -178,7 +184,7 @@ Ukázku, jak může vypadat parallax, uvidíte v následujícím videu.
 
 K obrazovce je možné přidat dokumenty (např. .docx, .pdf), které si návštěvník stáhne. Soubory ke stažení umožňují přidat rozšiřující informace k výstavě nebo ke konkrétní kapitole (článek, seznam doporučené literatury, pracovní listy apod.). Dokumenty vybírejte z knihovny dokumentů v editoru nebo z počítače. Druhou variantou je vložit odkaz na web pomocí URL. Web se návštěvníkovi otevře automaticky v novém okně.
 
-## Animace přiblížení
+### Animace přiblížení
 Obrazovka Animace přiblížení je velmi efektivní způsob, jak na jednom obrázku návštěvníkovi zdůraznit určité detaily včetně možnosti tyto detaily okomentovat. Statickou obdobou podobné funkcionality je obrázek, do kterého přidáte infopointy s informačním boxíkem. Na rozdíl od infopointů, které si uživatel nemusí rozkliknout, u této obrazovky o detailní pohled nepřijde. Mezi jednotlivými detaily se animace vždy vrátí na celek obrázku.   
 
 **Název, text, audio**
@@ -203,7 +209,9 @@ Vyberte příslušný obrázek nebo jej přidejte do souborů z počítače. Mí
 
 K obrazovce je možné přidat dokumenty (např. .docx, .pdf), které si návštěvník stáhne. Soubory ke stažení umožňují přidat rozšiřující informace k výstavě nebo ke konkrétní kapitole (článek, seznam doporučené literatury, pracovní listy apod.). Dokumenty vybírejte z knihovny dokumentů v editoru nebo z počítače. Druhou variantou je vložit odkaz na web pomocí URL. Web se návštěvníkovi otevře automaticky v novém okně.
 
-## Fotogalerie
+## Interaktivní obrazovka 
+
+### Slideshow
 Fotogalerie je typ obrazovky, která je v hodná k prezentování více obrázků, které spolu souvisí. V případě, že vkládáte za sebe více Obrazovek s obrázkem, zvažte využití Fotogalerie, protože výsledný dojem bude plynulejší. Umožní vám to také okomentovat více fotografií v jednom textu nebo jedním audio komentářem. To ulehčí i editaci a práci s audiosoubory. 
 
 **Název, text, audio**
@@ -223,7 +231,7 @@ Doplňte délku trvání obrazovky. To je údaj, který je důležitý pro preze
 !!! info "Tip"
     Načasování plynutí výstavy věnujte velkou pozornost. Zvolte u každé obrazovky takový čas, aby měl návštěvník prostor si prohlédnout obsah, ale zároveň aby se nezačal nudit. Doporučujeme vyzkoušet načasování jednotlivých obrazovek s testovacími návštěvníky. 
 
-**Fotogalerie**
+**Slideshow**
 
 Při vkládání obrázků postupujte stejně jako u Obrazovky s obrázkem nebo u práce se soubory. Vyberte příslušný obrázek z adresáře nebo jej nahrajte do správce souborů. Další obrázek do fotogalerie přidáte kliknutím na čtverec s ikonou +. 
 
@@ -237,7 +245,7 @@ Ke každé fotografii můžete přidávat infopointy. Zvolte také způsob anima
 
 K obrazovce je možné přidat dokumenty (např. .docx, .pdf), které si návštěvník stáhne. Soubory ke stažení umožňují přidat rozšiřující informace k výstavě nebo ke konkrétní kapitole (článek, seznam doporučené literatury, pracovní listy apod.). Dokumenty vybírejte z knihovny dokumentů v editoru nebo z počítače. Druhou variantou je vložit odkaz na web pomocí URL. Web se návštěvníkovi otevře automaticky v novém okně.
 
-## Foto před a po
+### Foto před a po
 Obrazovka Před a po je jedním z prvků výstavy, který vybízí návštěvníka k aktivitě. Je složena ze dvou obrázků, které jsou vidět jen z půlky. Uprostřed obou obrázků je táhlo, s kterým návštěvník posouvá a tím si zobrazuje. Obrazovka Před a po je ideálním prostředkem, jak zdůraznit změnu a rozdíly, kterých by si návštěvník nemusel všimnout. Nabízí se třeba při prezentaci stejného místa v různých dobách. Zároveň je možné obrazovku využít i k vytvoření vtipů a hříček, kdy do jednoho obrázku vložím něco, co na původním není a tento rozdíl se objeví až přetažením táhla.
 
 !!! info "Tip"
@@ -262,7 +270,7 @@ Editace obrazovky spočívá ve výběru dvou obrázků ze souborů k výstavě.
 
 K obrazovce je možné přidat dokumenty (např. .docx, .pdf), které si návštěvník stáhne. Soubory ke stažení umožňují přidat rozšiřující informace k výstavě nebo ke konkrétní kapitole (článek, seznam doporučené literatury, pracovní listy apod.). Dokumenty vybírejte z knihovny dokumentů v editoru nebo z počítače. Druhou variantou je vložit odkaz na web pomocí URL. Web se návštěvníkovi otevře automaticky v novém okně.
 
-## Obrazovka s externím obsahem
+### Obrazovka s externím obsahem
 Obrazovka s externím obsahem je nástroj, jak do výstavy pomocí embed kódu vložit obsah, který je umístěný jinde na internetu nebo jste jej vytvořili pomocí jiného nástroje, který tento typ sdílení umožňuje. Zároveň si takový obsah zachovává své původní funkcionality. Takto je možné sdílet např. mapu, interaktivní grafy, videa apod. 
 
 !!! info "Tip: Mapa"

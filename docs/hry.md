@@ -1,4 +1,4 @@
-# Minihry
+# Herní obrazovky
 
 Editor INDIHU Exhibition obsahuje i šest interaktivních her. Tyto hry umožňují obohatit výstavu hrou, při které se návštěvník pobaví, zaktivizuje nebo si díky hře ukotví nabité znalosti a informace. 
 

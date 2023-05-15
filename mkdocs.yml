@@ -9,6 +9,7 @@ nav:
     - 'Základní fungování': 'zaklady.md'
     - 'Obrazovky': 'obrazovky.md'
     - 'Minihry': 'minihry.md'
+    - 'Inspirace': 'inspirace.md'
 repo_url: https://nnis.github.io/indihu-manual/
 markdown_extensions:
   - toc:
