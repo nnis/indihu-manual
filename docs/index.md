@@ -47,7 +47,19 @@ Tvorba virtuálních výstav má dvě části. Nejprve je třeba [vybrat téma](
 
 TODO: (foto úvodu ke kapitole)
 
+https://github.dev/LIBCAS/indihu-manual/blob/a0f87d890248b02899baf5fa2bb72daa0983b725/docs/img/start%20vystavy-new.png
 
-Na úvodní stránce najdete klíčové informace o virtuální výstavě, jako její přibližnou délku, jednotlivé kapitoly, její autory a dokumenty k výstavě. Jakmile zahájíte výstavu tlačítkem "Spusti výstavu," automaticky se zahájí infoprohlídka, která vás postupně provede ovládacími prvky výstavy.
+Na úvodní stránce najdete klíčové informace o virtuální výstavě jako její přibližnou délku, jednotlivé kapitoly, její autory a dokumenty k výstavě. Jakmile zahájíte výstavu tlačítkem "Spustit výstavu," automaticky se zahájí infoprohlídka, která vás postupně provede ovládacími prvky výstavy.
 
 TODO: (foto infoprohlídky)
+https://github.dev/LIBCAS/indihu-manual/blob/a0f87d890248b02899baf5fa2bb72daa0983b725/docs/img/start%20vystavy-new.png
+
+<ins>Průchod výstavou
+
+Při průchodu výstav v Indihu Exhibition můžete narazit na dva typy výstav. Prvním typem je výstava, která bude tvůrcem načasovaná a poběží vám tak v prohlížeči sama od sebe kapitolu po kapitole. Druhým typem je pak výstava, která takové načasování nemá a její ovládání je zcela na vás a vašem tempu. V každém případě je však vždy možné výstavu pozastavit nebo se k jednotlivým obrazovkám vrátit.
+
+<ins>Statické x Interaktivní obrazovky
+
+Virtuální výstavy mají několik druhů obrazovek, které se dají obecně zařadit dvou typů - statické a interaktivní. Jak už název napovídá, při statických není třeba aktivita návštěvníka, ale v interaktivních ano. Jedná se například o minihry, jako je kvíz, nebo posuň na správné místo. Tyto typu obrazovek slouží k aktivizaci návštěvníka, v žádném případě však není jejich vyplnění povinné a dají se přeskočit.
+
+TODO: fotky kvízu
