@@ -7,11 +7,13 @@ Virtuální výstava je online prezentace vybraného tématu a její přípravu 
 ## Vytvářím svou první výstavu
 
 Udělat svou první výstavu je nejtěžší a moc si vážíme toho, že používáte náš nástroj. Abychom vám tento proces zjednodušili, připravili jsme pro vás sadu pracovních listů, které vám pomohou vytvořit scénář virtuální výstavy.
+
 TIP!
 Pracovní listy doporučujeme vytisknout a vyplnit s tužkou v ruce. Mají podobu mentální a pojmové mapy.
 
 ### Příprava tématu výstavy 
 Nejprve je třeba vybrat téma a najít ten správný přístup k jeho vyprávění. Online prostředí funguje jinak, než jak jsme zvyklí u fyzických výstav, a online návštěvníci mají trochu jiná očekávání, kterým bychom se měli přizpůsobit, aby naše výstava byla úspěšná.
+
 TIP!
 Preferujte kompaktní témata a pokud možno se vyvarujte složitě strukturovaným problémům. 
 
@@ -19,6 +21,7 @@ Preferujte kompaktní témata a pokud možno se vyvarujte složitě strukturovan
 Nyní můžete začít zpracovávat vlastní obsah výstavy. Napište všechny potřebné texty a vyhledejte si co největší množství vizuálního materiálu. 
 Nejdůležitějším hlediskem přípravy výstavy je srozumitelnost obsahu, proto se zaměřte na jeho logické členění, buďte konkrétní a věcní.
 V druhé fázi práce se zamyslete nad tím, jak byste mohli popisný text nahradit zajímavějším typem obsahu. Nejpříhodnější bývají video klipy. Využijte také svoji kreativitu a vymyslete pro návštěvníka hru (pokročilejší funkce), jejichž uplatnění ve výstavě vám nástroj nabízí. 
+
 TIP!
 Ne všechny informace jsou stejně důležité! Uvědomte si, která část obsahu je hlavní a co jsou pouze dodatečné materiály, které můžete připojit ke stažení?
 
