@@ -63,6 +63,7 @@ Obrázky, které prezentujete ve výstavě, mohou mít jiný formát, rozličnou
 Kvalitní texty mohou přinést návštěvníkům nové informace a probudit jejich zájem o prezentované téma. Musí být ale stručné! 
 Rázně doporučujeme nevkládat texty delší než 500 znaků! Průzkum návštěvnické spokojenosti virtuálních výstav jasně ukázal, že delší texty návštěvníci nečtou. 
 Při přípravě textů se držte těchto doporučení:
+
 •	Pokud možno, vyhněte se odborným výrazům.
 •	Pište kratší věty, jsou srozumitelnější.
 •	Nejzajímavější informace dejte na začátek textu a nespoléhejte se na to, že návštěvník dočte až do konce.
@@ -115,9 +116,13 @@ Máte-li za sebou již svou první výstavu nebo dokonce několik, doporučujeme
 ### Video klipy
 
 Vedle použití již existujících video klipů si můžete pro výstavu připravit unikátní video stopy, čímž zásadně ozvláštníte obsah. Videa by neměla být příliš dlouhá (doporučujeme 1 min, max. 3 min). A při jejich tvorbě se opět zaměřte na poctivou přípravu scénáře. Můžete využít různé žánry:
+
 •	Dokumentární film
+
 •	Rozhovor s pamětníkem či odborníkem
+
 •	Animace
+
 •	Hraný film
 
 Video připravujte v rozlišení FullHD (1920×1080), 25 snímků za vteřinu, v renderovacím formátu H.264. Pro tento typ obsahu opět použijete Obrazovku s externím obsahem. 
@@ -136,13 +141,19 @@ Podrobněji vás s funkcí seznámí tento video klip. / Podrobnější informac
 
 Interaktivita a možnost se přímo zapojit do procesu konzumace virtuálního obsahu je již běžnou součástí vnímání na internetu a návštěvníci jsou na takové chování ve virtuálním prostředí zvyklí. Nástroj INDIHU Exhibition nabízí zapojit do výstavy několik typů her, jejichž podrobnější vysvětlení naleznete v samostatné [záložce](hry). 
 Některé z nich mají jasné řešení a jsou vhodnější pro ověření znalostí a pozornosti. Znalostními hrami můžeme téma otevřít a zjistit vstupní úroveň vědomostí, které zbytkem obsahu výstavy doplníme a rozvedeme, nebo je naopak zapojit na závěr jako jednoduchý způsob všechny prezentované informace shrnout. Mezi tyto hry patří: 
+
 •	Kvízy
+
 •	Najdi na obrázku
+
 •	Hádej velikost
+
 •	Posuň na správné místo
 
 Dalšími typy her jsou hry kreativní, které nemají jednoznačné řešení. Tyto jsou vhodnější k rozvoji imaginace, podpoření tvořivosti a umožní návštěvníkům se samostatně vyjádřit. Mezi tyto hry patří:
+
 •	Dokresli/Domaluj
+
 •	Stírací los (Setři)/Odtesej
 
 ### Zrealizujte návštěvnický průzkum a využijte participativní metody přípravy výstavy
@@ -156,9 +167,15 @@ Například klub místních amatérských fotografů, nebo filmový kroužek se 
 ### Zaměřte se na propagaci výstavy
 
 Propagace výstavy může do velké míry ovlivnit její dosah a úspěšnost. Připojujeme pro vás několik tipů:
+
 •	Vytvořte video upoutávku na výstavu (tzv. teaser).
+
 •	Připravte kampaň na sociální sítě a upozorňujte na výstavu v dostatečném předstihu. Jasně formulujte, co návštěvníci díky zhlédnutí výstavy získají.
+
 •	Načasujte výstavu na nějaké významné datum, nebo ji spojte s další offline událostí. Můžete například zorganizovat i vernisáž.
+
 •	Oslovte místní média a připravte tiskovou zprávu, nebo novinářům nabídněte rozhovor s autory.
+
 •	Nabídněte virtuální výstavu pro volnočasové či školní vzdělávání, čímž připravíte komplexnější využití vaší práce.
+
 •	Připravte doprovodný edukační materiál pro návštěvníky výstavy či pro školy v podobě pracovního listu. 
