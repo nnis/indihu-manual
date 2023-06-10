@@ -122,6 +122,7 @@ Vedle použití již existujících video klipů si můžete pro výstavu připr
 Video připravujte v rozlišení FullHD (1920×1080), 25 snímků za vteřinu, v renderovacím formátu H.264. Pro tento typ obsahu opět použijete Obrazovku s externím obsahem. 
 
 ### Parallax
+
 [Parallax](/obrazovky/#parallax) je speciální typ pohyblivého obrázku. Tohoto zajímavého efektu se docílí tím, že se obrázek nahraje v několika vrstvách, z nichž se každá pohybuje zvlášť. Příprava parallaxu je náročnější, jak na představivost, tak na vlastní produkci. 
 
 ### Nelineární procházení virtuální výstavou
