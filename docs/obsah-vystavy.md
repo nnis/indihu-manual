@@ -2,7 +2,7 @@
 
 Virtuální výstava je online prezentace vybraného tématu a její přípravu lze rozdělit do 6 základních činností: 
 
-![](uspesna_indihu_vystava.jpg)
+![uspesna_indihu_vystava](uspesna_indihu_vystava.jpg)
 
 ## Vytvářím svou první výstavu
 
