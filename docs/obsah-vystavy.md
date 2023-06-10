@@ -26,7 +26,8 @@ TIP!
 Ne všechny informace jsou stejně důležité! Uvědomte si, která část obsahu je hlavní a co jsou pouze dodatečné materiály, které můžete připojit ke stažení?
 
 ### Příprava formy výstavy (způsob vyprávění tématu) 
-Při tvorbě vlastní virtuální výstavy v nástroji Indihu Exhibition plníte jednotlivé **obrazovky** obsahem. Obrazovky je dále možné sdružovat do **kapitol** nebo je možné výstavu sestavit z jednotlivých obrazovek jdoucích po sobě. Oba principy můžete rovněž kombinovat.
+
+Při tvorbě vlastní virtuální výstavy v nástroji Indihu Exhibition plníte **obrazovky** obsahem. Obrazovky je dále možné sdružovat do **kapitol** nebo je možné výstavu sestavit z **jednotlivých obrazovek** jdoucích po sobě. Oba principy můžete rovněž kombinovat.
 
 TIP!
 Rozmyslete si, jak budete obsah výstavy rozvíjet a členit, jak budou jednotlivé části obsáhlé? Podle toho si lépe rozhodnete, zda budete používat jednotlivé izolované obrazovky, nebo budete téma členit do kapitol.
