@@ -98,7 +98,7 @@ Pro začátečníky doporučujeme přidat hudbu ke každé kapitole zvlášť. Z
 Interaktivní obrazovky jsou druhy obrazovek, které poskytují návštěvníkům možnost drobné interakce, ale nejsou náročné na vytvoření a jsou vítaným ozvláštněním výstavy. Jejich podoba opět stojí zejména na obrázcích.
 
 **Při přípravě výstavy využijte tyto typy interaktivních obrazovek:** 
- - [Slideshow](TODO) Tato obrazovka návštěvníkovi přehrává vizuální materiál v řadě za sebou.
+ - [Slideshow](TODO): Tato obrazovka návštěvníkovi přehrává vizuální materiál v řadě za sebou.
  - [Před a po](obrazovky.md/#TODO): Tato obrazovka umožňuje prezentovat dva obrázky, které se doplňují, nebo naopak kontrastují, a návštěvník je může sám porovnávat. 
  - [Obrazovka s externím obsahem](obrazovky.md#obrazovka-s-externim-obsahem): Máte zajímavý obsah uveřejněný v jiné aplikaci? Díky této obrazovce ho můžete jednoduše integrovat do výstavy a to včetně zachovaní interaktivity, který obsah na jiné stránce nabízí. Příkladem mohou být např. mapové aplikace nebo video.
 
@@ -125,7 +125,7 @@ Vedle použití již existujících video klipů si můžete pro výstavu připr
 
 •	Hraný film
 
-Video připravujte v rozlišení FullHD (1920×1080), 25 snímků za vteřinu, v renderovacím formátu H.264. Pro tento typ obsahu opět použijete Obrazovku s externím obsahem. 
+Video připravujte v rozlišení FullHD (1920×1080), 25 snímků za vteřinu, v renderovacím formátu H.264. Pro tento typ obsahu opět použijete [Obrazovka s externím obsahem](obrazovky.md#obrazovka-s-externim-obsahem). 
 
 ### Parallax
 
