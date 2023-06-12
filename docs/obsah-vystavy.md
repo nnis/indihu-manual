@@ -65,9 +65,13 @@ Rázně doporučujeme nevkládat texty delší než 500 znaků! Průzkum návšt
 Při přípravě textů se držte těchto doporučení:
 
 •	Pokud možno, vyhněte se odborným výrazům.
+
 •	Pište kratší věty, jsou srozumitelnější.
+
 •	Nejzajímavější informace dejte na začátek textu a nespoléhejte se na to, že návštěvník dočte až do konce.
+
 •	Podrobnější informace můžete připojit v samostatném souboru k výstavě a/nebo ke každé obrazovce, předejdete tak neúnosnému přehlcení hlavního obsahu.
+
 •	Pro zvýraznění krátkého textu využijte [obrazovku s textem](obrazovky/#obrazovka-s-textem), která se hodí např. pro citáty nebo zopakování klíčových informací.
 
 V případě, že chcete pro návštěvníky připravit dokumenty ke stažení s podrobnějšími informacemi, můžete je připravit v následujících formátech: .pdf, .txt, .docx. Doporučujeme především využití formátu .pdf, u kterého nedojde ke změně formátování.
