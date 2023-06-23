@@ -1,26 +1,26 @@
 # Koncepce editoru
 
-Editor virtuálních výstav INDIHU Exhibition je vhodný pro tvorbu multimediálních bohatých prezentací s interaktivními prvky ve formě jednoduchých her. Je ideální  pro neotřelé představení svojí práce s cílem vzbudit v návštěvnících zájem. Už není tak ideální pro přenos velkého množství informací. Delší materiály lze však přiložit a návštěvníci si je mohou v případě zájmu stáhnout. Editor byl koncipován tak, aby byla výsledná virtuální výstava svěží, nápaditá a zábavná. 
+Editor virtuálních výstav INDIHU Exhibition je vhodný pro tvorbu **multimediálních bohatých prezentací s interaktivními prvky**. Je ideální pro neotřelé představení svojí práce s cílem vzbudit v návštěvnících zájem. Už není tak ideální pro přenos velkého množství informací. Delší materiály lze však přiložit a návštěvníci si je mohou v případě zájmu stáhnout. Editor byl koncipován tak, aby byla výsledná virtuální výstava vizální, svěží, nápaditá a zábavná. 
 
-## Díky INDIHU Exhibition budete snáz online 
+## Buďte snadno online 
 
-Online přítomnost muzeí, vědeckých pracovišť či jiných institucí, které se věnují kulturnímu dědictví, se stává nezbytností. Veřejnost očekává, že budete online nabízet zajímavý obsah. Vytváření virtuálních výstav je jednou z možností. Tvorba takových výstav však není snadná jak po [obsahové stránce](obsah-vystavy.md), protože online výstavy nefungují stejně jako ty fyzické, tak i po technické stránce. 
+Online přítomnost muzeí, vědeckých pracovišť či jiných institucí, které se věnují kulturnímu dědictví a vědě, se stává nezbytností. Veřejnost očekává, že budete online nabízet zajímavý obsah. Vytváření virtuálních výstav je jednou z možností. Tvorba takových výstav však není snadná jak po [obsahové stránce](obsah-vystavy.md), protože online výstavy nefungují stejně jako ty fyzické, tak i po technické stránce. 
 
-Díky INDIHU Exhibition odpadá nutnost zabývat se technickou stránkou virtuálních výstav. Editor je záměrně vytvořen tak, aby ovládací prvky byly v souladu se současnými standardy uživatelských rozhraní - jednoduché ovládání, střízlivé  rozhraní s akcentem na vizuálně atraktivní obsah. I proto nejde v editoru měnit umístění či vzhled jednotlivých prvků (položky v menu, písmo, základní barevnost). Zároveň však editor vznikal jako open source (free software), proto si kdokoli může software "rozběhnout" na vlastní infrastruktuře a upravit si ho tak, jak potřebuje. 
+Díky INDIHU Exhibition **odpadá nutnost zabývat se technickou stránkou** virtuálních výstav. Editor je záměrně vytvořen tak, aby ovládací prvky byly v souladu se současnými standardy uživatelských rozhraní - jednoduché ovládání, střízlivé  rozhraní s akcentem na vizuálně atraktivní obsah. I proto nejde v editoru měnit umístění či vzhled jednotlivých prvků (položky v menu, písmo). Zároveň však editor vznikal jako open source (free software), proto si kdokoli může software "rozběhnout" na vlastní infrastruktuře a upravit si ho tak, jak potřebuje. 
 
 ## Stavebním kamenem je obrazovka
 
-Základním konceptem editoru je obrazovka. Obsah tvoříte tím, že plníte jednotlivé obrazovky obsahem. Obrazovky můžete sdružovat do kapitol nebo výstavu vyrobit jen jako řadu obrazovek. Využijete-li kapitoly, vytvoří se automaticky přehledný seznam, který návštěvníkovi ulehčí navigaci a pohyb ve výstavě. Editor nabízí různé tipy obrazovek - obrazovku s obrázkem, s textem, videem či obrazovku, do které umístíte externí obsah (typicky mapy či video z internetu). 
+Základním konceptem editoru je obrazovka. Obsah tvoříte tím, že **plníte jednotlivé obrazovky obsahem**. Obrazovky můžete sdružovat do kapitol nebo výstavu vyrobit jen jako řadu obrazovek. Využijete-li **kapitoly**, vytvoří se automaticky přehledný seznam, který návštěvníkovi ulehčí navigaci a pohyb ve výstavě. Editor nabízí různé typy obrazovek - obsahové, interaktivní a herní.
 
 ### Ovládání 
 
-Každá obrazovka má několik záložek (např. "Název, text, audio", "Obrázek", "Dokumenty" - viz šipky), které postupně procházíte a plníte obsahem. U obrazovky nemusíte vyplnit všechny položky najednou. Pro kontrolu toho, jak obrazovka vypadá, máte vždy k dipozici náhled. Náhled zobrazíte pomocí tlačítka "náhled" (1) vlevo dole na stránce nebo pomocí klávesové zkratky Ctrl+P. Jednotlivé položky v záložkách vás navedou, jaký obsah máte připravit. V případě zájmu či nejasností si projděte podrobný ilustrovaný popis jednotlivých typů [obrazovek](obrazovky.md).
+Každá obrazovka má několik záložek (např. "Název, text, audio", "Obrázek", "Dokumenty" - viz šipky), které postupně procházíte a plníte obsahem. U obrazovky nemusíte vyplnit všechny položky najednou. Pro kontrolu toho, jak obrazovka vypadá, máte vždy k dipozici **náhled**. Náhled zobrazíte pomocí tlačítka "náhled" (1) vlevo dole na stránce nebo pomocí klávesové zkratky Ctrl+P. Jednotlivé položky v záložkách vás navedou, jaký obsah máte připravit. V případě zájmu či nejasností si projděte podrobný ilustrovaný popis jednotlivých typů [obrazovek](obrazovky.md).
 
 <center>![](img/ovladani-obrazovky-v2.jpg)</center>
 
-## Minihry vtáhnou návštěvníka do děje 
+## Hry vtáhnou návštěvníka do děje 
 
-Je na vás, jakou míru interaktivity zvolíte. Výstava bude fungovat i v případě, že ji složíte z kapitol a obrazovek. Doporučujeme však zvážit zařazení interaktivních her. K dipozici máte 6 různých [miniher](minihry.md) - Najdi v obrázku, Dokresli, Stírací los, Hádej velikost, Posuň na správné místo a Výběr z možností.  Mezi výhody miniher patří: 
+V současné době je hraní digitálních her velmi populární a využít je můžete i ve výstavách. Hry nejsou jen pro dětské návštěvníky, ale zaujmou i dospělé. K dipozici máte několik různých [her](hry.md) - některé jsou zaměřené na fakt a mají jasné řešení, jiné jsou více kreativní a otevřené. Mezi výhody her patří: 
 
 * můžete "zkontrolovat", zda si návštěvník zapamatoval klíčové informace
 * hrou upozorníte na nejdůležitější informace 
@@ -29,6 +29,7 @@ Je na vás, jakou míru interaktivity zvolíte. Výstava bude fungovat i v pří
 * přimějete návštěvníka, aby se nad tématem zamyslel 
 * z pasivního návštěvníka se stane aktivní návštěvník
 * je to jednoduše zábava 
+* umožníte mu se kreativně vyjádřit
 
 ## Zvládnu přípravu výstavy sám? 
 
