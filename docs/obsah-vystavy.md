@@ -1,8 +1,18 @@
 # Jak vytvořit úspěšnou virtuální výstavu
 
+
 Virtuální výstava je online prezentace vybraného tématu a její přípravu lze rozdělit do 6 základních činností: 
 
 ![uspesna_indihu_vystava](uspesna_indihu_vystava.jpg)
+
+Při její tvorbě plníte jednotlivé obrazovky obsahem - obrázky, texty, přidáváte hudbu, namluvený komentář nebo pro návštěvníky připravíte hry. Obrazovky je možné sdružovat do **kapitol** nebo je možné výstavu sestavit z
+**jednotlivých obrazovek** jdoucích po sobě. Oba principy můžete kombinovat. Příprava výstavy se skládá ze dvou hlavních částí rozdělených do 6 základních činností: 
+
+1. Příprava tématu a obsahu výstavy
+2. Samotná tvorba v nástroji INDIHU Exhibition 
+
+![](img/doporuceny-postup-v4.jpg)
+
 
 ## Vytvářím svou první výstavu
 
@@ -21,9 +31,7 @@ Preferujte kompaktní témata a pokud možno se vyvarujte složitě strukturovan
 Nyní můžete začít zpracovávat vlastní obsah výstavy. Napište všechny potřebné texty a vyhledejte si co největší množství vizuálního materiálu. 
 Nejdůležitějším hlediskem přípravy výstavy je srozumitelnost obsahu, proto se zaměřte na jeho logické členění, buďte konkrétní a věcní.
 
-V druhé fázi práce se zamyslete nad tím, jak byste mohli popisný text nahradit zajímavějším typem obsahu. Nejpříhodnější bývají video klipy. 
-
-Využijte také svoji kreativitu a vymyslete pro návštěvníka hru (pokročilejší funkce), jejichž uplatnění ve výstavě vám nástroj nabízí. 
+V druhé fázi práce se zamyslete nad tím, jak byste mohli popisný text nahradit zajímavějším typem obsahu. Nejpříhodnější bývají video klipy. Využijte také svoji kreativitu a vymyslete pro návštěvníka hru (pokročilejší funkce), jejichž uplatnění ve výstavě vám nástroj nabízí. 
 
 TIP!
 Ne všechny informace jsou stejně důležité! Uvědomte si, která část obsahu je hlavní a co jsou pouze dodatečné materiály, které můžete připojit ke stažení?
@@ -67,15 +75,11 @@ Kvalitní texty mohou přinést návštěvníkům nové informace a probudit jej
 Rázně doporučujeme nevkládat texty delší než 500 znaků! Průzkum návštěvnické spokojenosti virtuálních výstav jasně ukázal, že delší texty návštěvníci nečtou. 
 Při přípravě textů se držte těchto doporučení:
 
-•	Pokud možno, vyhněte se odborným výrazům.
-
-•	Pište kratší věty, jsou srozumitelnější.
-
-•	Nejzajímavější informace dejte na začátek textu a nespoléhejte se na to, že návštěvník dočte až do konce.
-
-•	Podrobnější informace můžete připojit v samostatném souboru k výstavě a/nebo ke každé obrazovce, předejdete tak neúnosnému přehlcení hlavního obsahu.
-
-•	Pro zvýraznění krátkého textu využijte [obrazovku s textem](obrazovky/#obrazovka-s-textem), která se hodí např. pro citáty nebo zopakování klíčových informací.
+- Pokud možno, vyhněte se odborným výrazům.
+- Pište kratší věty, jsou srozumitelnější.
+- Nejzajímavější informace dejte na začátek textu a nespoléhejte se na to, že návštěvník dočte až do konce.
+- Podrobnější informace můžete připojit v samostatném souboru k výstavě a/nebo ke každé obrazovce, předejdete tak neúnosnému přehlcení hlavního obsahu.
+- Pro zvýraznění krátkého textu využijte [obrazovku s textem](obrazovky/#obrazovka-s-textem), která se hodí např. pro citáty nebo zopakování klíčových informací.
 
 V případě, že chcete pro návštěvníky připravit dokumenty ke stažení s podrobnějšími informacemi, můžete je připravit v následujících formátech: .pdf, .txt, .docx. Doporučujeme především využití formátu .pdf, u kterého nedojde ke změně formátování.
 
