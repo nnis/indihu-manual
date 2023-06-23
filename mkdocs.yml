@@ -8,7 +8,7 @@ nav:
     - 'Koncepce editoru': 'koncepce-editoru.md'
     - 'Základní fungování': 'zaklady.md'
     - 'Obrazovky': 'obrazovky.md'
-    - 'Minihry': 'minihry.md'
+    - 'Hry': 'hry.md'
     - 'Inspirace': 'inspirace.md'
 repo_url: https://nnis.github.io/indihu-manual/
 markdown_extensions:

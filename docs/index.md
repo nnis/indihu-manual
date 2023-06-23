@@ -45,9 +45,22 @@ Tvorba virtuálních výstav má dvě části. Nejprve je třeba [vybrat téma](
 
 ## Jak výstavu vidí návštěvník
 
-TODO: (foto úvodu ke kapitole)
+Na úvodní stránce najdete klíčové informace o virtuální výstavě jako její přibližnou délku, jednotlivé kapitoly, její autory a v případě, že je autor vytvořil, tak i doplňující dokumenty k výstavě.
+
+![](img/start-vystavy-new.png)
+
+## Infoprohlídka
+
+Jakmile zahájíte výstavu tlačítkem "Spustit výstavu," automaticky se zahájí **infoprohlídka,** která vás postupně provede ovládacími prvky výstavy včetně užitečných klávesových zkratek.
 
 
-Na úvodní stránce najdete klíčové informace o virtuální výstavě, jako její přibližnou délku, jednotlivé kapitoly, její autory a dokumenty k výstavě. Jakmile zahájíte výstavu tlačítkem "Spusti výstavu," automaticky se zahájí infoprohlídka, která vás postupně provede ovládacími prvky výstavy.
+![](img/infoprohlídka.png)
 
-TODO: (foto infoprohlídky)
+<ins>Průchod výstavou
+
+Při průchodu výstav v Indihu Exhibition můžete narazit na dva typy výstav. Prvním typem je výstava, která bude tvůrcem **načasovaná** a poběží vám tak v prohlížeči sama od sebe kapitolu po kapitole. Druhým typem je pak výstava, která takové načasování nemá a její ovládání je zcela na vás a **vašem tempu**. V každém případě je však vždy možné výstavu pozastavit nebo se k jednotlivým obrazovkám vrátit.
+
+<ins>Typy obrazovek
+
+Virtuální výstavy Indihu Exhibition mají mnoho [druhů obrazovek](obrazovky.md), které se dají obecně zařadit tří typů - **obsahové, herní a interaktivní.**  Obsahové obrazovky jsou do velké míry statické a není v nich zapotřebí taková míra uživatelské aktivity jako ve zbylých dvou. [Minihry](minihry.md) a interaktivní obrazovky slouží k aktivizaci návštěvníka, v žádném případě však není jejich vyplnění povinné a dají se přeskočit.
+
