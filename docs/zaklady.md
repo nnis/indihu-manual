@@ -12,14 +12,13 @@ Tvůrce je člověk, který tvoří výstavu.
 
 ### Návštěvník
 
-Pojmem "návštěvník" je označován uživatel, který navštíví web s
-virtuální výstavou.
+Pojmem "návštěvník" je označován uživatel, který virtuální výstavu navštíví.
 
 ### Obrazovka
 
 Výstava je tvořena jednotlivými obrazovkami. Na obrazovkách může být
-různý obsah - obrázky, minihry, videa atd. V dalších částech manuálu 
-se seznámíte s jednotlivými [typy obrazovek](https://nnis.github.io/indihu-manual/obrazovky/) a jejich ovládáním (např. Obrazovka s textem, Obrazovka s videem, Fotogalerie apod.). Při tvorbě výstavy postupně plníte obrazovky obsahem. Editor umožňuje označit obrazovku jako dokončenou, díky tomu si lépe udržíte přehled o tom, které obrazovky ještě musíte dodělat. Ve výpisu obrazovek se dokončená obrazovka zbarví zeleně. 
+různý obsah - obrázky, Hry, videa atd. V dalších částech manuálu 
+se seznámíte s jednotlivými [typy obrazovek](https://nnis.github.io/indihu-manual/obrazovky/) a jejich ovládáním (např. Obrazovka s textem, Obrazovka s videem, Fotogalerie apod.). Při tvorbě výstavy postupně plníte obrazovky obsahem. Editor umožňuje označit obrazovku jako dokončenou, díky tomu si lépe udržíte přehled o tom, které obrazovky ještě musíte dokončit. Ve výpisu obrazovek se hotová obrazovka zbarví zeleně. 
 
 ### Kapitola
 
@@ -32,12 +31,16 @@ obrázkem, který může být animovaný. Návštěvník může při prohlížen
 výstavy přeskakovat z jedné kapitoly do druhé skrze seznam "Kapitoly" v
 menu.
 
-### Minihra
+### Hra
 
-Speciálním typem obrazovek jsou Minihry. Minihry jsou interaktivní
+Speciálním typem obrazovek jsou Hry. Hry jsou interaktivní
 prvky, kdy je návštěvník postaven před řešení úkolu - např. má najít
-určité místo na obrázku nebo odkrýt obrázek). K realizaci miniher
+určité místo na obrázku nebo odkrýt obrázek). K realizaci her
 (ODKAZ) je třeba adekvátně připravit obsah.
+
+### Infoprohlídka
+
+Po spuštění výstavy se návštěvníkovi automaticky otevře infoprohlídka, která návštěvníka postupně provede ovládacími prvky výstavy včetně užitečných klávesových zkratek. Návštěvník ji může přeskočit.
 
 ## Princip ovládání editoru
 
@@ -66,7 +69,7 @@ Po přihlášení do editoru se zobrazí seznam výstav. Tyto výstavy buď byly
 vytvořeny tvůrcem, nebo od jiného tvůrce získal právo prohlížení nebo
 editace.
 
-Výstavy jsou zobrazeny graficky (obr. A) nebo seznam (obr. B). Pro
+Výstavy jsou zobrazeny graficky (obr. A) nebo jako seznam (obr. B). Pro
 přepínání zobrazení slouží ikonka v pravém horním rohu (1). Výstavy je
 možné filtrovat nebo řadit pomocí přepínačů v horní části okna
 (Naposledy použité, Název apod.) (2). Tvůrce může také vyhledávat v
@@ -86,7 +89,7 @@ jako je přejmenování, sdílení výstavy či její části, export, změna st
 Po otevření detailu výstavy se tvůrci zobrazí první záložka Struktura
 výstavy (1). Lze se přepnout na záložky Soubory (2) pro správu souborů
 k výstavě, Nastavení (3) pro obecná nastavení celé výstavy a Sdílení
-(4), kde přidáte spolutvůrce. Po založení nové výstavy automaticky výstava obsahuje první obrazovku Úvod výstavy (5), možnost
+(4), kde lze přidat spolutvůrce. Po založení nové výstavy automaticky výstava obsahuje první obrazovku Úvod výstavy (5), možnost
 přidání obrazovky (6) a Závěr výstavy (7). Závěr výstavy se generuje automaticky. Tvůrce má možnost v záložce Nastavení připravit informaci a odkaz pro přesměrování návštěvníků v případě, že je výstava již ukončena. 
 
 ![](img/detail-vystavy-1.jpg)
@@ -139,19 +142,19 @@ výstavy jako celku:
 
 Každá výstava je v jednom z těchto stavů:
 
-1.  V přípravě: Výstava je v přípravě. Obsah výstavy je možné libovolně
+1.  **V přípravě**: Na výstavě se pracuje. Obsah výstavy je možné libovolně
     upravovat. Výstava je přístupná pouze přihlášeným tvůrcům, se
     kterými je výstava sdílena.
-2.  Zveřejněná: Výstava je veřejně dostupná přes svoje URL. Výstavu není
+2.  **Zveřejněná**: Výstava je veřejně dostupná přes svoje URL. Výstavu není
     možné upravovat. 
-3.  Ukončená: Výstava byla ukončena a není ani veřejně dostupná ani
+3.  **Ukončená**: Výstava byla ukončena a není ani veřejně dostupná ani
     určena k dalším úpravám. V záložce Nastavení lze v části "Informace
     návštěvníkovi v případě, že je výstava již ukončená" vytvořit
-    stránku, která se zobrazí návštěvník, když je tato výstava již
+    stránku, která se zobrazí, když je tato výstava již
     nedostupná. Výstavu lze znovu převést do stavu V přípravě nebo
     Zveřejněná.
 
-URL výstavy umožňuje nastavit libovolnou koncovku adresy tak, aby byla
+**URL výstavy** umožňuje nastavit libovolnou koncovku adresy tak, aby byla
 dobře použitelná a zapamatovatelná.
 
 ### Ukončená výstava
@@ -175,13 +178,13 @@ možné zaslat e-mailovou pozvánku s výzvou k registraci. O sdílení
 výstavy budete informováni e-mailem.
 
 Výstavu je dále možné sdílet odesláním URL adresy výstavy, a to jak
-odkazu na titulní obrazovku, tak na libovolnou kapitolu či obrazovku.
+pomocí odkazu na titulní obrazovku, tak na libovolnou kapitolu či obrazovku.
 Avšak stále platí, že pokud výstava není ve stavu Zveřejněná, nikdo
 jiný než ostatní tvůrci ji neuvidí.
 
 ### Zamykání výstavy pro editaci
 
-Pokud některý z tvůrců začne výstavu editovat, zamkne tuto výstavu pro
+Pokud některý z tvůrců začne výstavu editovat, zamkne se výstava pro
 editaci ostatním tvůrcům a to standardně na 1 minutu. Informace o tom,
 který tvůrce právě výstavu upravuje, je viditelná jak v seznamu výstav,
 tak na detailu výstavy. Ostatní tvůrci mohou výstavu prohlížet, ale ne
@@ -192,9 +195,9 @@ upravovat.
 
 ### Jednoduchý editor obrázků
 
-Současné webové prezentace stále více stojí na používání obrázků. Během přípravy výstav se proto neobejdete bez práce s obrázky. Můžete samozřejmě připravovat obrázky v nástrojích, na které jste běžně zvyklí. Nástroj INDIHU Exhibition však obsahuje i jednoduchý editor obrázků, který umožní tvůrcům základní úpravy jakými je např. ořez, otočení či změna poměru stran. 
+Současné webové prezentace stále více stojí na používání obrázků. Během přípravy výstav se proto neobejdete bez práce s obrázky. Můžete samozřejmě připravovat obrázky v nástrojích, na které jste běžně zvyklí. Nástroj INDIHU Exhibition však obsahuje i jednoduchý **editor obrázků**, který umožní tvůrcům základní úpravy jakými je např. ořez, otočení či změna poměru stran. 
 
-Do editoru obrázků se dostanete z hlavní stránky výstavy ze záložky Soubory a poté pomocí menu u konkrétního obrázku, který jste si nahráli do systému. Pro Editor obrázků zvolte položku v menu s názvem Editovat, která je označena ikonou palety. 
+Do editoru obrázků se dostanete z hlavní stránky výstavy ze záložky Soubory a poté pomocí menu u konkrétního obrázku, který jste si nahráli do systému. Pro editor obrázků zvolte položku v menu s názvem Editovat, která je označena ikonou palety. 
 
 ![](img/editor-obrazku-uvod.png)
 
@@ -215,7 +218,7 @@ Editor nabízí tyto funkce:
 
 ![](img/editor-obrazku-funkce1.png)
 
-Poté, co provedete změny, klikněte na první ikonu s disketou pro uložení a upravenou verzi obrázku si pojmenujte a uložte. Okno pro uložení změn vypadá následovně. 
+Poté, co provedete změny, klikněte na první ikonu s disketou pro uložení a upravenou verzi obrázku si pojmenujte a uložte. Okno pro uložení změn vypadá následovně: 
 
 ![](img/editor-obrazku-ulozeni.png)
 
