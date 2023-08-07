@@ -51,14 +51,14 @@ Na úvodní stránce najde návštěvník klíčové informace o virtuální vý
 
 ## Infoprohlídka
 
-Jakmile návštěvník zahájí výstavu tlačítkem "Spustit výstavu," automaticky se otevře **infoprohlídka,** která návštěvníka postupně provede ovládacími prvky výstavy včetně užitečných klávesových zkratek. Návštěvník ji může přeskočit stlačením tlačítka Přeskočit prohlídku.
+Jakmile návštěvník zahájí výstavu tlačítkem "Spustit výstavu," automaticky se otevře **infoprohlídka,** která návštěvníka postupně provede ovládacími prvky výstavy včetně užitečných klávesových zkratek, jako je posun ve výstavě šipkami nebo pauza a opětovné spuštění výstavy mezerníkem. Návštěvník ji může přeskočit stlačením tlačítka Přeskočit prohlídku.
 
 
 ![](img/infoprohlídka.png)
 
 <ins>Průchod výstavou
 
-Při průchodu výstav v Indihu Exhibition existují dva typy výstav. Prvním typem je výstava, která je tvůrcem **načasovaná** a poběží návštěvníkovi v prohlížeči sama od sebe kapitolu po kapitole. Druhým typem je pak výstava, která takové načasování nemá a její ovládání je zcela na návštěvníkovi a **jeho tempu**. V každém případě je však vždy možné výstavu pozastavit nebo se k jednotlivým obrazovkám vrátit.
+Výstava je tvůrcem **načasovaná** a poběží návštěvníkovi v prohlížeči sama od sebe kapitolu po kapitole. Druhým typem je pak výstava, která takové načasování nemá a její ovládání je zcela na návštěvníkovi a **jeho tempu**. V každém případě je však vždy možné výstavu pozastavit nebo se k jednotlivým obrazovkám vrátit.
 
 <ins>Typy obrazovek
 
