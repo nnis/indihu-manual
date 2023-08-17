@@ -30,6 +30,8 @@
 
 Tvůrce si založí výstavu, vytváří jednotlivé obrazovky. Až je s výstavou spokojen, zveřejnění ji. Pokud chce, může výstavu ukončit nebo ji může návštěvníkům nechat dostupnou pořád. Největší návštěvnost je vždy po zveřejnění nebo když vystavu propagujete (když dáte příspěvek s pozvánkou na sociální sítě nebo třeba vyjde článek v novinách). Tvůrci mou mít v jednu chvíli více rozpracovaných výstav.
 
+TODO video
+
 ## Po vstupu do editoru
 
 Po přihlášení do editoru se zobrazí **seznam výstav**. Tyto výstavy buď byly vytvořeny tvůrcem, nebo od jiného tvůrce získal právo prohlížení nebo editace od dalšího uživatele. Výstavy jsou zobrazeny graficky pomocí **dlaždic** (obr. A) nebo jako **seznam** (obr. B). Pro
