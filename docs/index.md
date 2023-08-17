@@ -2,19 +2,12 @@ TODO promovideo
 
 # O nástroji INDIHU Exhibition
 
-Editor virtuálních výstav INDIHU Exhibition je vhodný pro tvorbu multimediálních bohatých prezentací s interaktivními prvky. Je ideální pro neotřelé představení svojí práce s cílem vzbudit v návštěvnících zájem. Už není tak ideální pro přenos velkého množství informací. Delší materiály lze však přiložit a návštěvníci si je mohou v případě zájmu stáhnout. Editor byl koncipován tak, aby byla výsledná virtuální výstava vizální, svěží, nápaditá a zábavná. INDIHU Exhibition umožňuje jednotlivcům nebo týmům vytváření virtuálních výstav na zcela libovolná témata. Má širokou škálu použití pro instituce
-zprostředkovávající kulturní dědictví. Lze použít i pro neotřelou online prezentaci výstupů vědeckého bádání. Může sloužit jako nástroj pro žáky a studenty, kteří v něm mohou zpracovávat školní práce.
+Editor virtuálních výstav INDIHU Exhibition je vhodný pro tvorbu multimediálních bohatých prezentací s interaktivními prvky. Je ideální pro neotřelé představení svojí práce s cílem vzbudit v návštěvnících zájem. Už není tak ideální pro přenos velkého množství informací. Delší materiály lze však přiložit a návštěvníci si je mohou v případě zájmu stáhnout. Editor byl koncipován tak, aby byla výsledná virtuální výstava vizuální, svěží, nápaditá a zábavná. INDIHU Exhibition umožňuje jednotlivcům nebo týmům vytváření virtuálních výstav na zcela **libovolná témata**. Má širokou škálu použití pro instituce
+zprostředkovávající kulturní dědictví a lze použít i pro neotřelou online prezentaci výstupů vědeckého bádání. Může sloužit jako nástroj pro žáky a studenty, kteří v něm mohou zpracovávat školní práce.
 
-Buďte snadno online#
+Online přítomnost muzeí, vědeckých pracovišť či jiných institucí, které se věnují kulturnímu dědictví a vědě, se stává nezbytností. Veřejnost očekává, že **budete online nabízet zajímavý obsah**. Vytváření virtuálních výstav je jednou z možností. Tvorba takových výstav však není snadná jak po obsahové stránce, protože online výstavy nefungují stejně jako ty fyzické, tak i po technické stránce. Díky INDIHU Exhibition **odpadá nutnost zabývat se technickou stránkou** virtuálních výstav. Editor je záměrně vytvořen tak, aby ovládací prvky byly v souladu se současnými standardy uživatelských rozhraní - jednoduché ovládání a střízlivé rozhraní s akcentem na vizuálně atraktivní obsah. 
 
-Online přítomnost muzeí, vědeckých pracovišť či jiných institucí, které se věnují kulturnímu dědictví a vědě, se stává nezbytností. Veřejnost očekává, že budete online nabízet zajímavý obsah. Vytváření virtuálních výstav je jednou z možností. Tvorba takových výstav však není snadná jak po obsahové stránce, protože online výstavy nefungují stejně jako ty fyzické, tak i po technické stránce.
-
-Díky INDIHU Exhibition odpadá nutnost zabývat se technickou stránkou virtuálních výstav. Editor je záměrně vytvořen tak, aby ovládací prvky byly v souladu se současnými standardy uživatelských rozhraní - jednoduché ovládání, střízlivé rozhraní s akcentem na vizuálně atraktivní obsah. I proto nejde v editoru měnit umístění či vzhled jednotlivých prvků (položky v menu, písmo). Zároveň však editor vznikal jako open source (free software), proto si kdokoli může software "rozběhnout" na vlastní infrastruktuře a upravit si ho tak, jak potřebuje. 
-
-INDIHU Exhibition je open source software
-(<https://github.com/LIBCAS/INDIHU>) a webová služba dostupná na adrese
-<https://exhibition.indihu.cz/>, kterou provozuje Knihovna Akademie věd
-ČR.
+INDIHU Exhibition je open source (free) software s otevřeným [zdrojovým kódem](<https://github.com/LIBCAS/INDIHU>). Kdokoli si může software "rozběhnout" na vlastní infrastruktuře a upravit si ho tak, jak potřebuje. Výstavu pak vytváříte v e svém webovém prohlížeči na adrese a webová služba dostupná na adrese <https://exhibition.indihu.cz/>, kterou provozuje Knihovna Akademie věd ČR. 
 
 !!! question "Proč používat INDIHU Exhibition?"
     * Umožní tvořit virtuální výstavy, aniž byste museli rozumět webdesignu
@@ -22,7 +15,6 @@ INDIHU Exhibition je open source software
     * Nabízí zařazení interaktivních her
     * Dovoluje soustředit se na obsah a ne na technickou stránku
     * Ušetří Vám peníze za programátory
-
 
 ## Co to umí 
 
@@ -32,7 +24,7 @@ INDIHU Exhibition je open source software
 - Text 
 - Audio (hudba, audio komentáře)
 - Vkládání externího obsahu (např. mapy, videa, grafy, 3D objekty) 
-- [Hry](minihry.md) (Kvíz, Najdi na obrázku, Stírací los, Hádej velikost apod.)
+- [Hry](hry.md) (Kvíz, Najdi na obrázku, Stírací los, Hádej velikost apod.)
 - Přikládání souborů s dalšími materiály (např. seznam literatury, pracovní listy pro školy)
 - Na tvorbě výstavy můžete spolupracovat s více tvůrci
 - Hostování výstavy
@@ -41,12 +33,12 @@ INDIHU Exhibition je open source software
 
 ## Jak začít?
 
-Tvorba virtuálních výstav má dvě části. Nejprve je třeba [vybrat téma](obsah-vystavy.md) a obsah připravit tak, aby byl vhodný pro zpracování formou virtuální výstavy. Druhým krokem je příprava výstavy v nástroji INDIHU Exhibition. V osvojení nástroje doporučujeme postupovat takto: 
+Tvorba virtuálních výstav má dvě části - příparava obsahu a samotná práce v editoru. Nepodceňte přípravu obsahu. V osvojení nástroje doporučujeme postupovat takto: 
 
-1. [Koncepce editoru](koncepce-editoru.md): článek a videa, která představují hlavní myšlenky a obecné principy ovládání
+1. Nejprve je třeba [vybrat téma](uspesna-vystava.md) a obsah připravit tak, aby byl vhodný pro zpracování formou virtuální výstavy. [Inspirujte](inspirace.md) se jinými tvůrci. 
 2. [Základní fungování](zaklady.md): Vysvětlení používaných pojmů a ilustrovaný popis jednotlivých kroků při založení první výstavy
-3. [Obrazovky](obrazovky.md): Podrobný ilustrovaný popis jednotlivých tipů obrazovek
-4. [Hry](minihry.md): Podrobný ilustrovaný popis jednotlivých interaktivních her
+3. [Obrazovky](obrazovky.md): Podrobný ilustrovaný popis jednotlivých typů obrazovek
+4. [Hry](hry.md): Podrobný ilustrovaný popis jednotlivých interaktivních her
 
 ## Jak výstavu vidí návštěvník
 
@@ -67,4 +59,3 @@ Výstava je tvůrcem **načasovaná** a poběží návštěvníkovi v prohlíže
 ### Typy obrazovek
 
 Virtuální výstavy Indihu Exhibition mají mnoho [druhů obrazovek](obrazovky.md), které se dají obecně zařadit tří typů - **obsahové, herní a interaktivní.**  [Obsahové obrazovky](obrazovky.md/#obsahove-obrazovky jsou do velké míry statické a není v nich zapotřebí taková míra uživatelské aktivity jako ve zbylých dvou. [Hry](minihry.md) a interaktivní obrazovky slouží k aktivizaci návštěvníka, v žádném případě však není jejich vyplnění povinné a dají se přeskočit.
-
