@@ -2,74 +2,46 @@
 
 ## Vysvětlení pojmů
 
-### Virtuální výstava
+| Pojem             | Vysvětlení                                                                                                                                                                                                                                                                                                                                                          |
+|-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Virtuální výstava | Virtuální výstava je základním konceptem systému a výsledný produkt. Jedná se o ucelenou prezentaci určitého tématu, kterou vytvoříte pomocí obrazových, textových, audiovizuálních informací a interakce. Software INDIHU Exhibition je nazýván editorem výstav.                                                                                                   |
+| Editor            | Editorem názýváme nástroj INDIHU Exhibition, v kterém tvůrce vytváří výstavu. Editor běží v internetovém prohlížeči.                                                                                                                                                                                                                                                |
+| Tvůrce            | Tvůrce je člověk, který tvoří výstavu.                                                                                                                                                                                                                                                                                                                              |
+| Návštěvník        | Pojmem "návštěvník" je označován uživatel, který navštíví web s virtuální výstavou.                                                                                                                                                                                                                                                                                 |
+| Obrazovka         | Výstava je tvořena jednotlivými obrazovkami. Na obrazovkách může být různý obsah (obrázky, hry, videa atd.). V části [Obrazovky](obrazovky.md) se seznámíte se všemi možnostmi i ovládáním. Při tvorbě výstavy postupně plníte obrazovky obsahem.                                                                                                                   |
+| Kapitola          | Obrazovky je možné sdružovat do kapitol. Tvoření kapitol je nástrojem pro logické členění obsahu. Výstava může obsahovat jednu či více kapitol. Kapitola vždy obsahuje úvodní stránku kapitoly s názvem a titulním obrázkem, který může být animovaný. Návštěvník může při prohlížení výstavy přeskakovat z jedné kapitoly do druhé skrze seznam "Kapitoly" v menu. |
+| Hra               | Pro větší interaktivitu, kterou návštěvníci dnes hodně vyžadují, jsou k dispozici [hry](hry.md). Návštěvník je postaven před řešení úkolu a tím se zvýší jeho angažovanost v tématu.                                                                                                                                                                                |                                                                                                                                                                                                                                                             
 
-Virtuální výstava je základním konceptem systému a výsledný produkt. Jedná se o ucelenou prezentaci určitého tématu, kterou vytvoříte pomocí obrazových, textových, audiovizuálních informací a interakce. Software INDIHU Exhibition je nazýván editorem výstav.
+## Zřízení účtu
 
-### Tvůrce
-
-Tvůrce je člověk, který tvoří výstavu.
-
-### Návštěvník
-
-Pojmem "návštěvník" je označován uživatel, který navštíví web s
-virtuální výstavou.
-
-### Obrazovka
-
-Výstava je tvořena jednotlivými obrazovkami. Na obrazovkách může být
-různý obsah - obrázky, minihry, videa atd. V dalších částech manuálu 
-se seznámíte s jednotlivými [typy obrazovek](https://nnis.github.io/indihu-manual/obrazovky/) a jejich ovládáním (např. Obrazovka s textem, Obrazovka s videem, Fotogalerie apod.). Při tvorbě výstavy postupně plníte obrazovky obsahem. Editor umožňuje označit obrazovku jako dokončenou, díky tomu si lépe udržíte přehled o tom, které obrazovky ještě musíte dodělat. Ve výpisu obrazovek se dokončená obrazovka zbarví zeleně. 
-
-### Kapitola
-
-Obrazovky je možné sdružovat do kapitol. Výstava však může být jen série po sobě jdoucích obrazovek. Mezi jednotlivými kapitolami mohou být
-samostatné obrazovky. Tvoření kapitol je nástrojem pro logické členění
-obsahu. Výstava může obsahovat jednu či více kapitol.
-
-Kapitola vždy obsahuje úvodní stránku kapitoly s názvem a titulním
-obrázkem, který může být animovaný. Návštěvník může při prohlížení
-výstavy přeskakovat z jedné kapitoly do druhé skrze seznam "Kapitoly" v
-menu.
-
-### Minihra
-
-Speciálním typem obrazovek jsou Minihry. Minihry jsou interaktivní
-prvky, kdy je návštěvník postaven před řešení úkolu - např. má najít
-určité místo na obrázku nebo odkrýt obrázek). K realizaci miniher
-(ODKAZ) je třeba adekvátně připravit obsah.
-
-## Princip ovládání editoru
-
-1.  Registrace tvůrce: Pro využívání INDIHU Exhibition jako webové
+1.  **Registrace tvůrce**: Pro využívání INDIHU Exhibition jako webové
     aplikace je třeba se zaregistrovat na adrese
     <http://inqooltest.libj.cas.cz>. Po vyplnění registračního formuláře
     je třeba registraci potvrdit pomocí odkazu zaslaného na zadaný
     e-mail. Tím vznikne žádost o vytvoření účtu, která je schválena
-    administrátorem. Po schválení žádosti vzniká uživatelský účet s rolí
-    Editor. O postupech v procesu registrace je žadatel informován
-    e-mailovými notifikacemi.
-2.  Přihlášení do editoru: Tvůrce se přihlašuje uživatelským jménem
+    administrátorem. To může trvat nejdéle 3 dny. Po schválení žádosti vzniká uživatelský účet s rolí Editor. O postupech v procesu registrace je žadatel informován e-mailovými notifikacemi.
+2.  **Přihlášení do editoru**: Tvůrce se přihlašuje uživatelským jménem
     (e-mail) a heslem, které si zvolil při registraci. Tvůrce má možnost
     změnit svoje osobní údaje, heslo nebo zrušit účet pomocí tlačítka
     “Správa účtu”, které se nachází na pravé straně záhlaví.
-3.  Založení výstavy
-4.  Tvorba jednotlivých obrazovek
-5.  Zveřejnění výstavy
-6.  Ukončení výstavy
 
-Tvůrce může mít v jednu chvíli více rozpracovaných výstav.
+Tvůrce si založí výstavu, vytváří jednotlivé obrazovky. Až je s výstavou spokojen, zveřejnění ji. Pokud chce, může výstavu ukončit nebo ji může návštěvníkům nechat dostupnou pořád. Největší návštěvnost je vždy po zveřejnění nebo když vystavu propagujete (když dáte příspěvek s pozvánkou na sociální sítě nebo třeba vyjde článek v novinách). Tvůrci mou mít v jednu chvíli více rozpracovaných výstav.
 
-### Seznam virtuálních výstav
+TODO video
 
-Po přihlášení do editoru se zobrazí seznam výstav. Tyto výstavy buď byly
-vytvořeny tvůrcem, nebo od jiného tvůrce získal právo prohlížení nebo
-editace.
+## Zvládnu přípravu výstavy sám?
 
-Výstavy jsou zobrazeny graficky (obr. A) nebo seznam (obr. B). Pro
+Editor umožňuje, aby na výstavě spolupracovalo více tvůrců. Neumožňuje však spolupráci v reálném čase - provádět úpravy může vždy jen jeden tvůrce, pro úpravy se editor pro spolutvůrce odemkne po 1 minutě. Editor je vytvořen tak, aby jeho **používání bylo co nejjednodušší**. V části [Jak vytvořit úspěšnou výstavu](uspesna-vystava.md) jsou typy pro tvůrce, kteří dělají svou první výstavu a pro ty, kteří jsou již zkušenější a chtějí se rozvíjet. Nemusíte umět programovat nebo být webdesignér, a přesto vytvoříte online výstavu. Virtuální výstavy však obsahují různé typy obsahu, které vytváříte mimo editor pomocí jiných nástrojů a do editoru obsah jen vkládáte. Je tedy vhodné, abyste **uměli alespoň trochu pracovat s obrázky, nahrát audio nebo vytvářet videa**. Nástroj obsahuje jednoduchý nástroj na úpravu obrázků (oříznutí, otočení, změna poměru stran). Pokud vám to zdroje dovolí, můžete **využít služeb profesionálů** (fotografa, grafika, filmaře nebo zvukaře). 
+
+!!! info "Tip"
+    Ačkoli je zámek pro editaci nastaven jen na 1 minutu, doporučujeme se předem domluvit, kdy kdo na výstavě bude pracovat. Zabráníte tomu, abyste pracovali na stejné části výstavy.
+
+## Po vstupu do editoru
+
+Po přihlášení do editoru se zobrazí **seznam výstav**. Tyto výstavy buď byly vytvořeny tvůrcem, nebo od jiného tvůrce získal právo prohlížení nebo editace od dalšího uživatele. Výstavy jsou zobrazeny graficky pomocí **dlaždic** (obr. A) nebo jako **seznam** (obr. B). Pro
 přepínání zobrazení slouží ikonka v pravém horním rohu (1). Výstavy je
-možné filtrovat nebo řadit pomocí přepínačů v horní části okna
-(Naposledy použité, Název apod.) (2). Tvůrce může také vyhledávat v
+možné **filtrovat** nebo řadit pomocí přepínačů v horní části okna
+(Naposledy použité, Název apod.) (2). Tvůrce může také **vyhledávat** v
 seznamu výstav podle názvu (3).
 
 U každé výstavy jsou uvedeny základní informace, jako jsou: název, vlastník, stav a datum poslední změny (4).
@@ -81,12 +53,12 @@ jako je přejmenování, sdílení výstavy či její části, export, změna st
 
 ![](img/uvod2-b-seznam.jpg)
 
-### Detail výstavy
+## Detail a editace výstavy
 
 Po otevření detailu výstavy se tvůrci zobrazí první záložka Struktura
 výstavy (1). Lze se přepnout na záložky Soubory (2) pro správu souborů
 k výstavě, Nastavení (3) pro obecná nastavení celé výstavy a Sdílení
-(4), kde přidáte spolutvůrce. Po založení nové výstavy automaticky výstava obsahuje první obrazovku Úvod výstavy (5), možnost
+(4), kde lze přidat spolutvůrce. Po založení nové výstavy automaticky výstava obsahuje první obrazovku Úvod výstavy (5), možnost
 přidání obrazovky (6) a Závěr výstavy (7). Závěr výstavy se generuje automaticky. Tvůrce má možnost v záložce Nastavení připravit informaci a odkaz pro přesměrování návštěvníků v případě, že je výstava již ukončena. 
 
 ![](img/detail-vystavy-1.jpg)
@@ -113,7 +85,7 @@ Struktura výstavy je zobrazená v grafické podobě. Editor umožňuje:
 
 ![](img/struktura-vystavy.jpg)
 
-### Soubory výstavy
+### Soubory k výstavě
 
 Každá výstava disponuje svým vlastním souborovým depozitářem, do kterého
 si tvůrce může nahrávat soubory potřebné pro tvorbu výstavy. Tvůrce také
@@ -139,62 +111,45 @@ výstavy jako celku:
 
 Každá výstava je v jednom z těchto stavů:
 
-1.  V přípravě: Výstava je v přípravě. Obsah výstavy je možné libovolně
+1.  **V přípravě**: Výstava je v přípravě. Obsah výstavy je možné libovolně
     upravovat. Výstava je přístupná pouze přihlášeným tvůrcům, se
     kterými je výstava sdílena.
-2.  Zveřejněná: Výstava je veřejně dostupná přes svoje URL. Výstavu není
+2.  **Zveřejněná**: Výstava je veřejně dostupná přes svoje URL. Výstavu není
     možné upravovat. 
-3.  Ukončená: Výstava byla ukončena a není ani veřejně dostupná ani
+3.  **Ukončená**: Výstava byla ukončena a není ani veřejně dostupná ani
     určena k dalším úpravám. V záložce Nastavení lze v části "Informace
     návštěvníkovi v případě, že je výstava již ukončená" vytvořit
-    stránku, která se zobrazí návštěvník, když je tato výstava již
+    stránku, která se zobrazí, když je tato výstava již
     nedostupná. Výstavu lze znovu převést do stavu V přípravě nebo
     Zveřejněná.
 
-URL výstavy umožňuje nastavit libovolnou koncovku adresy tak, aby byla
+**URL výstavy** umožňuje nastavit libovolnou koncovku adresy tak, aby byla
 dobře použitelná a zapamatovatelná.
 
-### Ukončená výstava
+!!! info "Tip"
+    URL výstavy umožňuje nastavit libovolnou koncovku adresy tak, aby byla dobře použitelná a zapamatovatelná. Upravte URL tak, aby na propagačních materiálech vypada dobře. 
 
-Pokud je výstava ukončená, je možné zobrazit návštěvníkovi náhradní
-obrazovku s těmito informacemi:
+### Sdílení a spolupráce s dalšími tvůrci
 
-1.  Obrázek na pozadí
-2.  URL pro přesměrování: web, kam je návštěvníkovi doporučeno
-    pokračovat (jiná výstava nebo web instituce, která výstavu
-    pořádala) 
-3.  Oznámení návštěvníkovi: Krátký informační text (např. poděkování za
-    zájem)
-
-### Sdílení s dalšími tvůrci
-
-Výstavu lze sdílet s dalšími tvůrci. Ostatním tvůrcům je možné dát práva
-jen k prohlížení nebo i k editaci. Můžete přidávat jen tvůrce, kteří
+Výstavu lze sdílet s dalšími tvůrci. Ostatním tvůrcům je možné dát **práva
+jen k prohlížení nebo i k editaci**. Můžete přidávat jen tvůrce, kteří
 jsou do editoru zaregistrovaní. K přidání další osoby je
 možné zaslat e-mailovou pozvánku s výzvou k registraci. O sdílení
-výstavy budete informováni e-mailem.
-
-Výstavu je dále možné sdílet odesláním URL adresy výstavy, a to jak
+výstavy budete informováni e-mailem. Výstavu je dále možné **sdílet odesláním URL adresy výstavy**, a to jak
 odkazu na titulní obrazovku, tak na libovolnou kapitolu či obrazovku.
 Avšak stále platí, že pokud výstava není ve stavu Zveřejněná, nikdo
 jiný než ostatní tvůrci ji neuvidí.
 
-### Zamykání výstavy pro editaci
-
-Pokud některý z tvůrců začne výstavu editovat, zamkne tuto výstavu pro
-editaci ostatním tvůrcům a to standardně na 1 minutu. Informace o tom,
-který tvůrce právě výstavu upravuje, je viditelná jak v seznamu výstav,
-tak na detailu výstavy. Ostatní tvůrci mohou výstavu prohlížet, ale ne
-upravovat.
+Při **spolupráci více autorů** se automaticky editace zamkne na 1 minutu. Informace o tom, který tvůrce právě výstavu upravuje, je viditelná jak v seznamu výstav, tak na detailu výstavy. Ostatní tvůrci mohou výstavu prohlížet, ale ne upravovat.
 
 !!! info "Tip"
     Ačkoli je zámek pro editaci nastaven jen na 1 minutu, doporučujeme se předem domluvit, kdy kdo na výstavě bude pracovat. Zabráníte tomu, abyste pracovali na stejné části výstavy. 
 
 ### Jednoduchý editor obrázků
 
-Současné webové prezentace stále více stojí na používání obrázků. Během přípravy výstav se proto neobejdete bez práce s obrázky. Můžete samozřejmě připravovat obrázky v nástrojích, na které jste běžně zvyklí. Nástroj INDIHU Exhibition však obsahuje i jednoduchý editor obrázků, který umožní tvůrcům základní úpravy jakými je např. ořez, otočení či změna poměru stran. 
+Současné webové prezentace stále více stojí na používání obrázků. Během přípravy výstav se proto neobejdete bez práce s obrázky. Můžete samozřejmě připravovat obrázky v nástrojích, na které jste běžně zvyklí. Nástroj INDIHU Exhibition však obsahuje i jednoduchý **editor obrázků**, který umožní tvůrcům základní úpravy jakými je např. ořez, otočení či změna poměru stran. 
 
-Do editoru obrázků se dostanete z hlavní stránky výstavy ze záložky Soubory a poté pomocí menu u konkrétního obrázku, který jste si nahráli do systému. Pro Editor obrázků zvolte položku v menu s názvem Editovat, která je označena ikonou palety. 
+Do editoru obrázků se dostanete z hlavní stránky výstavy ze záložky Soubory a poté pomocí menu u konkrétního obrázku, který jste si nahráli do systému. Pro editor obrázků zvolte položku v menu s názvem Editovat, která je označena ikonou palety. 
 
 ![](img/editor-obrazku-uvod.png)
 
@@ -215,7 +170,7 @@ Editor nabízí tyto funkce:
 
 ![](img/editor-obrazku-funkce1.png)
 
-Poté, co provedete změny, klikněte na první ikonu s disketou pro uložení a upravenou verzi obrázku si pojmenujte a uložte. Okno pro uložení změn vypadá následovně. 
+Poté, co provedete změny, klikněte na první ikonu s disketou pro uložení a upravenou verzi obrázku si pojmenujte a uložte. Okno pro uložení změn vypadá následovně: 
 
 ![](img/editor-obrazku-ulozeni.png)
 

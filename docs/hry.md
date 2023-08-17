@@ -1,9 +1,20 @@
-# Minihry
+# Herní obrazovky
 
-Editor INDIHU Exhibition obsahuje i šest interaktivních her. Tyto hry umožňují obohatit výstavu hrou, při které se návštěvník pobaví, zaktivizuje nebo si díky hře ukotví nabité znalosti a informace. 
+V současné době je hraní digitálních her velmi populární a využít je můžete i ve výstavách. Hry nejsou jen pro dětské návštěvníky, ale zaujmou i dospělé a **vtáhnou návštěvníka do děje**. K dipozici máte několik různých her - některé jsou zaměřené na fakt a mají jasné řešení, jiné jsou více kreativní a otevřené. Editor obsahuje 6 interaktivních her. Mezi výhody her patří:
+
+- Můžete "zkontrolovat", zda si návštěvník zapamatoval klíčové informace
+- Hrou upozorníte na nejdůležitější informace
+- Obsah bude dynamičtější a může oživit zájem návštěvníka
+- Vtáhnete návštěvníka do děje
+- Přimějete návštěvníka, aby se nad tématem zamyslel
+- Z pasivního návštěvníka se stane aktivní návštěvník
+- Je to jednoduše zábava
+- Umožníte mu se kreativně vyjádřit
+
+
 
 !!! warning "Upozornění"
-	U každé hry pečlivě formulujte v řádku Úkol minihry zadání úkolu. Dbejte na to, aby zadání bylo jednoznačné, srozumitelné a v ideálním případě i jednoduché a krátké. Zkuste úkol otestovat na někom z vašeho okolí, abyste si ověřili, že je pokyn jasný.  
+	U každé hry pečlivě formulujte v řádku Úkol minihry zadání úkolu. Toto zadání by mělo být jednoduché, krátké a hlavně srozumitelné. Zkuste úkol otestovat na někom z vašeho okolí, abyste si ověřili, že je pokyn jasný.  
 
 ## Najdi na obrázku
 
@@ -14,7 +25,7 @@ Návštěvník má za úkol najít správné místo na obrázku. Například mí
 
 ## Dokresli
 	
-Návštěvník má za úkol dokreslit jen z části zobrazený objekt. Ukažte mu jen část lineárního grafu a nechte návštěvníka zkusit odhadnout, jak vývoj pokračoval. Ukažte mu část obrazce a nechte jej zbytek dokreslit.
+Návštěvník má za úkol dokreslit pouze částečně zobrazený objekt. Ukažte mu jen část lineárního grafu a nechte ho zkusit odhadnout, jak vývoj pokračoval. Ukažte mu část obrazce a nechte jej zbytek dokreslit.
 
 !!! info "Tip"
 	Tato hra nutí návštěvníka, aby se nad tématem opravdu zamyslel, porovnal dosavadní informace z výstavy s tím, co si o tématu doposud myslel. Pokud se hra zaměří na dokreslení tvarů, výzdoby apod., tato minihra může sloužit ke kreativnímu vyjádření návštěvníka.  
@@ -31,7 +42,7 @@ Hlavním obsahem je obrázek, po jehož odkrytí se zobrazí jiný obrázek. Ná
 Návštěvník má za úkol pomocí šipek zvětšit či zmenšit obrázek a porovnat jeho velikost s referenčním objektem. Za referenční objekt vyberte dobře známý předmět, jehož velikost je fixní a všeobecně známá- např. krabička od sirek, propiska, lidská postava apod. Minihra je zaměřená na otestování senzorické zkušenosti. 
 
 !!! info "Tip"
-	Zkuste jako předmět, u kterého návštěvník vybírá velikost, vybrat takový, který překvapí. Příkladem mohou být např. postavičky věstonické Venuše, které jsou ve skutečnosti mnohem menší, než si lidé myslí. Návštěvník je pak překvapen zručností lidí v historii, kteří takový předmět vyrobili. 
+	Zkuste jako předmět, u kterého návštěvník vybírá velikost, vybrat takový, kde výsledek porovnání překvapí. Příkladem mohou být např. postavičky věstonické Venuše, které jsou ve skutečnosti mnohem menší, než si lidé myslí. Návštěvník je pak překvapen zručností lidí v historii, kteří takový předmět vyrobili. 
 
 ## Posuň na správné místo
 
