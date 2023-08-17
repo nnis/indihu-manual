@@ -12,7 +12,6 @@ Při její tvorbě plníte jednotlivé obrazovky obsahem - obrázky, texty, při
 
 ![](img/doporuceny-postup-v4.jpg)
 
-
 ## Vytvářím svou první výstavu
 
 Udělat svou první výstavu je nejtěžší a moc si vážíme toho, že jste se rozhodli použít náš nástroj. Abychom vám tento proces zjednodušili, připravili jsme pro vás sadu pracovních listů, které vám pomohou vytvořit scénář virtuální výstavy.
