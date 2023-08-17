@@ -1,0 +1,447 @@
+
+<!doctype html>
+<html lang="cs" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+      
+      <link rel="icon" href="../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.4.2, mkdocs-material-9.0.6">
+    
+    
+      
+        <title>Koncepce editoru - Indihu Exhibition</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.558e4712.min.css">
+      
+        
+        <link rel="stylesheet" href="../assets/stylesheets/palette.2505c338.min.css">
+      
+      
+
+    
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="" data-md-color-accent="">
+  
+    
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#koncepce-editoru" class="md-skip">
+          Přeskočit obsah
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href=".." title="Indihu Exhibition" class="md-header__button md-logo" aria-label="Indihu Exhibition" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Indihu Exhibition
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Koncepce editoru
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Hledat" placeholder="Hledat" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://nnis.github.io/indihu-manual/" title="Přejít do repozitáře" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.2.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    Nnis
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="Indihu Exhibition" class="md-nav__button md-logo" aria-label="Indihu Exhibition" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    Indihu Exhibition
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://nnis.github.io/indihu-manual/" title="Přejít do repozitáře" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.2.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    Nnis
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href=".." class="md-nav__link">
+        Úvod
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../zaklady/" class="md-nav__link">
+        Základní fungování
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../uspesna-vystava/" class="md-nav__link">
+        Vytváříme výstavu
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../obrazovky/" class="md-nav__link">
+        Obrazovky
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../hry/" class="md-nav__link">
+        Hry
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../inspirace/" class="md-nav__link">
+        Inspirace
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Obsah">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Obsah
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#budte-snadno-online" class="md-nav__link">
+    Buďte snadno online
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#stavebnim-kamenem-je-obrazovka" class="md-nav__link">
+    Stavebním kamenem je obrazovka
+  </a>
+  
+    <nav class="md-nav" aria-label="Stavebním kamenem je obrazovka">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#ovladani" class="md-nav__link">
+    Ovládání
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#hry-vtahnou-navstevnika-do-deje" class="md-nav__link">
+    Hry vtáhnou návštěvníka do děje
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#zvladnu-pripravu-vystavy-sam" class="md-nav__link">
+    Zvládnu přípravu výstavy sám?
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<h1 id="koncepce-editoru">Koncepce editoru<a class="headerlink" href="#koncepce-editoru" title="Permanent link">#</a></h1>
+<p>Editor virtuálních výstav INDIHU Exhibition je vhodný pro tvorbu <strong>multimediálních bohatých prezentací s interaktivními prvky</strong>. Je ideální pro neotřelé představení svojí práce s cílem vzbudit v návštěvnících zájem. Už není tak ideální pro přenos velkého množství informací. Delší materiály lze však přiložit a návštěvníci si je mohou v případě zájmu stáhnout. Editor byl koncipován tak, aby byla výsledná virtuální výstava vizální, svěží, nápaditá a zábavná. </p>
+<h2 id="budte-snadno-online">Buďte snadno online<a class="headerlink" href="#budte-snadno-online" title="Permanent link">#</a></h2>
+<p>Online přítomnost muzeí, vědeckých pracovišť či jiných institucí, které se věnují kulturnímu dědictví a vědě, se stává nezbytností. Veřejnost očekává, že budete online nabízet zajímavý obsah. Vytváření virtuálních výstav je jednou z možností. Tvorba takových výstav však není snadná jak po <a href="obsah-vystavy.md">obsahové stránce</a>, protože online výstavy nefungují stejně jako ty fyzické, tak i po technické stránce. </p>
+<p>Díky INDIHU Exhibition <strong>odpadá nutnost zabývat se technickou stránkou</strong> virtuálních výstav. Editor je záměrně vytvořen tak, aby ovládací prvky byly v souladu se současnými standardy uživatelských rozhraní - jednoduché ovládání, střízlivé  rozhraní s akcentem na vizuálně atraktivní obsah. I proto nejde v editoru měnit umístění či vzhled jednotlivých prvků (položky v menu, písmo). Zároveň však editor vznikal jako open source (free software), proto si kdokoli může software "rozběhnout" na vlastní infrastruktuře a upravit si ho tak, jak potřebuje. </p>
+<h2 id="stavebnim-kamenem-je-obrazovka">Stavebním kamenem je obrazovka<a class="headerlink" href="#stavebnim-kamenem-je-obrazovka" title="Permanent link">#</a></h2>
+<p>Základním konceptem editoru je obrazovka. Obsah tvoříte tím, že <strong>plníte jednotlivé obrazovky obsahem</strong>. Obrazovky můžete sdružovat do kapitol nebo výstavu vyrobit jen jako řadu obrazovek. Využijete-li <strong>kapitoly</strong>, vytvoří se automaticky přehledný seznam, který návštěvníkovi ulehčí navigaci a pohyb ve výstavě. Editor nabízí různé typy obrazovek - obsahové, interaktivní a herní.</p>
+<h3 id="ovladani">Ovládání<a class="headerlink" href="#ovladani" title="Permanent link">#</a></h3>
+<p>Každá obrazovka má několik záložek (např. "Název, text, audio", "Obrázek", "Dokumenty" - viz šipky), které postupně procházíte a plníte obsahem. U obrazovky nemusíte vyplnit všechny položky najednou. Pro kontrolu toho, jak obrazovka vypadá, máte vždy k dipozici <strong>náhled</strong>. Náhled zobrazíte pomocí tlačítka "náhled" (1) vlevo dole na stránce nebo pomocí klávesové zkratky Ctrl+P. Jednotlivé položky v záložkách vás navedou, jaký obsah máte připravit. V případě zájmu či nejasností si projděte podrobný ilustrovaný popis jednotlivých typů <a href="../obrazovky/">obrazovek</a>.</p>
+<p><center><img alt="" src="../img/ovladani-obrazovky-v2.jpg" /></center></p>
+<h2 id="hry-vtahnou-navstevnika-do-deje">Hry vtáhnou návštěvníka do děje<a class="headerlink" href="#hry-vtahnou-navstevnika-do-deje" title="Permanent link">#</a></h2>
+<p>V současné době je hraní digitálních her velmi populární a využít je můžete i ve výstavách. Hry nejsou jen pro dětské návštěvníky, ale zaujmou i dospělé. K dipozici máte několik různých <a href="../hry/">her</a> - některé jsou zaměřené na fakt a mají jasné řešení, jiné jsou více kreativní a otevřené. Mezi výhody her patří: </p>
+<ul>
+<li>můžete "zkontrolovat", zda si návštěvník zapamatoval klíčové informace</li>
+<li>hrou upozorníte na nejdůležitější informace </li>
+<li>obsah bude dynamičtější a může oživit zájem návštěvníka</li>
+<li>vtáhnete návštěvníka do děje</li>
+<li>přimějete návštěvníka, aby se nad tématem zamyslel </li>
+<li>z pasivního návštěvníka se stane aktivní návštěvník</li>
+<li>je to jednoduše zábava </li>
+<li>umožníte mu se kreativně vyjádřit</li>
+</ul>
+<h2 id="zvladnu-pripravu-vystavy-sam">Zvládnu přípravu výstavy sám?<a class="headerlink" href="#zvladnu-pripravu-vystavy-sam" title="Permanent link">#</a></h2>
+<p>Editor umožňuje, aby na výstavě spolupracovalo více tvůrců. Neumožňuje však spolupráci v reálném čase - provádět úpravy může vždy jen jeden tvůrce, pro úpravy se editor pro spolutvůrce odemkne po 1 minutě. </p>
+<div class="admonition info">
+<p class="admonition-title">Tip</p>
+<p>Ačkoli je zámek pro editaci nastaven jen na 1 minutu, doporučujeme se předem domluvit, kdy kdo na výstavě bude pracovat. Zabráníte tomu, abyste pracovali na stejné části výstavy. </p>
+</div>
+<p>Editor je vytvořen tak, aby jeho používání bylo co nejjednodušší. Nemusíte umět programovat nebo být webdesignér, a přesto vytvoříte online výstavu. Virtuální výstavy však obsahují různé typy obsahu, které vytváříte mimo editor pomocí jiných nástrojů a do editoru obsah jen vkládáte. Je tedy vhodné, abyste uměli alespoň trochu pracovat s obrázky, nahrát audio nebo vytvářet videa. Nástroj INDIHU Exhibition obsahuje jednoduchý nástroj na úpravu obrázků (oříznutí, otočení, změna poměru stran). V manuálu se u jednotlivých obrazovek a her objevují tipy na nástroje, které můžete použít. Pokud vám to zdroje dovolí, můžete využít služeb profesionálů (fotografa, grafika, filmaře nebo zvukaře). </p>
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    <script id="__config" type="application/json">{"base": "..", "features": [], "search": "../assets/javascripts/workers/search.e5c33ebb.min.js", "translations": {"clipboard.copied": "Zkop\u00edrov\u00e1no do schr\u00e1nky", "clipboard.copy": "Kop\u00edrovat do schr\u00e1nky", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "Nenalezeny \u017e\u00e1dn\u00e9 dokumenty", "search.result.one": "Nalezen\u00fd dokument: 1", "search.result.other": "Nalezen\u00e9 dokumenty: #", "search.result.placeholder": "Pi\u0161te co se m\u00e1 vyhledat", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.51d95adb.min.js"></script>
+      
+    
+  </body>
+</html>
