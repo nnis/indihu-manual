@@ -53,14 +53,13 @@ Na úvodní stránce najde návštěvník klíčové informace o virtuální vý
 
 Jakmile návštěvník zahájí výstavu tlačítkem "Spustit výstavu," automaticky se otevře **infoprohlídka,** která návštěvníka postupně provede ovládacími prvky výstavy včetně užitečných klávesových zkratek, jako je posun ve výstavě šipkami nebo pauza a opětovné spuštění výstavy mezerníkem. Návštěvník ji může přeskočit stlačením tlačítka Přeskočit prohlídku.
 
-
 ![](img/infoprohlídka.png)
 
-<ins>Průchod výstavou
+### Průchod výstavou
 
 Výstava je tvůrcem **načasovaná** a poběží návštěvníkovi v prohlížeči sama od sebe kapitolu po kapitole. Druhým typem je pak výstava, která takové načasování nemá a její ovládání je zcela na návštěvníkovi a **jeho tempu**. V každém případě je však vždy možné výstavu pozastavit nebo se k jednotlivým obrazovkám vrátit.
 
-<ins>Typy obrazovek
+### Typy obrazovek
 
-Virtuální výstavy Indihu Exhibition mají mnoho [druhů obrazovek](obrazovky.md), které se dají obecně zařadit tří typů - **obsahové, herní a interaktivní.**  Obsahové obrazovky jsou do velké míry statické a není v nich zapotřebí taková míra uživatelské aktivity jako ve zbylých dvou. [Hry](minihry.md) a interaktivní obrazovky slouží k aktivizaci návštěvníka, v žádném případě však není jejich vyplnění povinné a dají se přeskočit.
+Virtuální výstavy Indihu Exhibition mají mnoho [druhů obrazovek](obrazovky.md), které se dají obecně zařadit tří typů - **obsahové, herní a interaktivní.**  [Obsahové obrazovky](obrazovky.md/#obsahove-obrazovky jsou do velké míry statické a není v nich zapotřebí taková míra uživatelské aktivity jako ve zbylých dvou. [Hry](minihry.md) a interaktivní obrazovky slouží k aktivizaci návštěvníka, v žádném případě však není jejich vyplnění povinné a dají se přeskočit.
 
