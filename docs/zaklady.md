@@ -29,6 +29,16 @@ Tvůrce si založí výstavu, vytváří jednotlivé obrazovky. Až je s výstav
 
 TODO video
 
+Zvládnu přípravu výstavy sám?#
+
+Editor umožňuje, aby na výstavě spolupracovalo více tvůrců. Neumožňuje však spolupráci v reálném čase - provádět úpravy může vždy jen jeden tvůrce, pro úpravy se editor pro spolutvůrce odemkne po 1 minutě.
+
+Tip
+
+Ačkoli je zámek pro editaci nastaven jen na 1 minutu, doporučujeme se předem domluvit, kdy kdo na výstavě bude pracovat. Zabráníte tomu, abyste pracovali na stejné části výstavy.
+
+Editor je vytvořen tak, aby jeho používání bylo co nejjednodušší. Nemusíte umět programovat nebo být webdesignér, a přesto vytvoříte online výstavu. Virtuální výstavy však obsahují různé typy obsahu, které vytváříte mimo editor pomocí jiných nástrojů a do editoru obsah jen vkládáte. Je tedy vhodné, abyste uměli alespoň trochu pracovat s obrázky, nahrát audio nebo vytvářet videa. Nástroj INDIHU Exhibition obsahuje jednoduchý nástroj na úpravu obrázků (oříznutí, otočení, změna poměru stran). V manuálu se u jednotlivých obrazovek a her objevují tipy na nástroje, které můžete použít. Pokud vám to zdroje dovolí, můžete využít služeb profesionálů (fotografa, grafika, filmaře nebo zvukaře). 
+
 ## Po vstupu do editoru
 
 Po přihlášení do editoru se zobrazí **seznam výstav**. Tyto výstavy buď byly vytvořeny tvůrcem, nebo od jiného tvůrce získal právo prohlížení nebo editace od dalšího uživatele. Výstavy jsou zobrazeny graficky pomocí **dlaždic** (obr. A) nebo jako **seznam** (obr. B). Pro
