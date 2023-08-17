@@ -4,8 +4,8 @@ theme:
   language: 'cs'
 nav:
     - 'Úvod': 'index.md'
-    - 'Koncepce editoru': 'koncepce-editoru.md'
     - 'Základní fungování': 'zaklady.md'
+    - 'Koncepce editoru': 'koncepce-editoru.md'
     - 'Vytváříme výstavu': 'uspesna-vystava.md'  
     - 'Obrazovky': 'obrazovky.md'
     - 'Hry': 'hry.md'
