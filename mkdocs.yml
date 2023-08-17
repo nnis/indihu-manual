@@ -5,7 +5,6 @@ theme:
 nav:
     - 'Úvod': 'index.md'
     - 'Základní fungování': 'zaklady.md'
-    - 'Koncepce editoru': 'koncepce-editoru.md'
     - 'Vytváříme výstavu': 'uspesna-vystava.md'  
     - 'Obrazovky': 'obrazovky.md'
     - 'Hry': 'hry.md'
