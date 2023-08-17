@@ -9,7 +9,8 @@ Tvůrci výstavy si musí na začátku stanovit, zda budou tvořit virtuální v
 
 Dalším krokem je pak stanovení cílového návštěvníka tak, abychom výstavu mohli tvořit s ohledem na jeho znalosti a vzdělávací potřeby, a rovněž definování konkrétních informací, které mu chceme předat, protože [obsah](obsah-vystavy.md) je pořád to nejdůležitější. Nabízí se možnost vytvořit modifikované varianty výstavy pro různé cílové skupiny, včetně pracovních listů, které jsou vhodnou pomůckou pro vzdělávání. 
 
-Z výzkumů a zkušeností vyplývá, že chceme-li, aby návštěvník u virtuální výstavy zůstal a prohlédl si ji celou, musíme ho zaujmout do 30 sekund. Zvažte tedy, co bude tvořit začátek vaší výstavy. Ideální je návštěvníka aktivizovat, a to po celou výstavu, vyváženou kombinací obsahu, obrázků, videa a interaktivních prvků (např. [hry](hry.md)). Platí přitom, že hlavním trendem je odklon od textů směrem k vizuálnímu obsahu, texty tedy zapojujte uvážlivě a zvažte jejich délku. To ale platí například i o videích, která by také neměla být moc dlouhá. 
+!!! info "Co říkají výzkumy?"
+    Chceme-li, aby návštěvník u virtuální výstavy zůstal a prohlédl si ji celou, musíme ho zaujmout do 30 sekund. Zvažte tedy, co bude tvořit začátek vaší výstavy. Ideální je **návštěvníka aktivizovat**, a to po celou výstavu, vyváženou kombinací obsahu, obrázků, videa a interaktivních prvků (např. [hry](hry.md)). Platí přitom, že hlavním trendem je **odklon od textů směrem k vizuálnímu obsahu**, texty tedy zapojujte uvážlivě a zvažte jejich délku. To ale platí například i o videích, která by také neměla být moc dlouhá (cca 1 minutu). 
 
 U virtuální výstavy je v neposlední řady důležitá propagace. Kromě tradičních médií je důležité propagovat výstavu v online prostoru - využít webové stránky a především sociální sítě nejen své instituce, ale například i těch spřátelených. 
 
