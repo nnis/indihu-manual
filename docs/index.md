@@ -1,10 +1,7 @@
 # O nástroji INDIHU Exhibition
 
-INDIHU Exhibition umožňuje jednotlivcům nebo týmům vytváření virtuálních
-výstav na zcela libovolná témata. Má širokou škálu použití pro instituce
-zprostředkovávající kulturní dědictví. Lze použít i pro neotřelou online
-prezentaci výstupů vědeckého bádání. Může sloužit jako nástroj pro
-žáky a studenty, kteří v něm mohou zpracovávat školní práce.
+Editor virtuálních výstav INDIHU Exhibition je vhodný pro tvorbu multimediálních bohatých prezentací s interaktivními prvky. Je ideální pro neotřelé představení svojí práce s cílem vzbudit v návštěvnících zájem. Už není tak ideální pro přenos velkého množství informací. Delší materiály lze však přiložit a návštěvníci si je mohou v případě zájmu stáhnout. Editor byl koncipován tak, aby byla výsledná virtuální výstava vizální, svěží, nápaditá a zábavná. INDIHU Exhibition umožňuje jednotlivcům nebo týmům vytváření virtuálních výstav na zcela libovolná témata. Má širokou škálu použití pro instituce
+zprostředkovávající kulturní dědictví. Lze použít i pro neotřelou online prezentaci výstupů vědeckého bádání. Může sloužit jako nástroj pro žáky a studenty, kteří v něm mohou zpracovávat školní práce.
 
 INDIHU Exhibition je open source software
 (<https://github.com/LIBCAS/INDIHU>) a webová služba dostupná na adrese
